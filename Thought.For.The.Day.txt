@@ -56,13 +56,15 @@ It's completely intuitive; it just takes a few days to learn, but then it's comp
 No battle was ever won that was poorly planned. No plan ever succeeded that was poorly conceived. - Ancient viking proverb
 You can close your eyes to the things you don't want to see, but you cannot close your heart to the things you don't want to feel. - Ancient viking proverb
 A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it. - Ancient viking proverb
-There are two kinds of people who never amount to much: Those who cannot do what they are told, and those who can do nothing else. - Cyrus Kotzschmar
 Hope clouds observation. - Frank Herbert
 It is remarkable how many things you can get to explode. - Elon Musk
+Work is the refuge of those who have nothing better to do. - Oscar Wilde
 Everyone pities the weak; Jealousy you have to earn - Arnold Schwarzenegger
 Knowing is not enough, we must apply. Willing is not enough, we must do. - Bruce Lee
 The pursuit of perfection is not the addition of qualities, but the removal of flaws. - Bruce Lee
 Talent hits a target no one else can hit. Genius hits a target no one else can see. - Arthur Schopenhauer
+There are two kinds of people who never amount to much: Those who cannot do what they are told, and those who can do nothing else. - Cyrus Kotzschmar
+The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency. - Bill Gates
 Beware of the person of only one book. - Thomas Aquinas
 No great thing is created suddenly. - Epictetus
 No man is free who is not master of himself. - Epictetus
@@ -205,14 +207,14 @@ Ability without honor is useless. - Cicero
 Never injure a friend, even in jest. - Cicero
 Endless money forms the sinews of war. - Cicero
 In times of war, the law falls silent. - Cicero
-A man of faith is also full of courage . - Cicero
 It is a great thing to know your vices. - Cicero
+A man of faith is also full of courage . - Cicero
 They condemn what they do not understand. - Cicero
 Politicians are not born; they are excreted. - Cicero
-The welfare of the people is the highest law . - Cicero
-Ut conclave sine libris ita corpus sine anima. - Cicero
 A happy life consists in tranquility of mind. - Cicero
-Where is there dignity unless there is honesty? . - Cicero
+The welfare of the people is the highest law. - Cicero
+Ut conclave sine libris ita corpus sine anima. - Cicero
+Where is there dignity unless there is honesty? - Cicero
 We must not say every mistake is a foolish one. - Cicero
 No one can give you better advice than yourself. - Cicero
 We are bound by the law, so that we may be free. - Cicero
@@ -296,6 +298,7 @@ For why do you hasten to remove things that hurt your eyes, but if anything gnaw
 The man who is tenacious of purpose in a rightful cause is not shaken from his firm resolve by the frenzy of his fellow citizens clamoring for what is wrong, or by the tyrant's threatening countenance. - Horace
 Opportunities multiply as they are seized. - Sun Tzu
 Success demands a singleness of purpose - Vince Lombardi
+The purpose of life is a life of purpose. - Robert Byrne
 Ignorance is bold and knowledge is reserved. - Thucydides
 Action is the foundational key to all success. - Pablo Picasso
 In the middle of difficulty lies opportunity. - Albert Einstein
@@ -303,11 +306,13 @@ Our sins are more easily remembered than our good deeds. - Democritus
 Only those who dare go too far, know how far they can go. - Walther Bishop
 Don't be pushed by your problems. Be led by your dreams. - Ralph Waldo Emerson
 Talk not of wasted affection; affection never was wasted. - Henry Wadsworth Longfellow
+If you want to go fast, go alone, If you want to go far, go together. - African proverb
 When you change the way you look at things, the things you look at change. - Max Planck
 You should take the approach that you're wrong. Your goal is to be less wrong. - Elon Musk
 Every sentence I utter must be understood not as an affirmation, but as a question. - Niels Bohr
 If you see distraction externally, you end up creating an internally distracted state. - Tim Ferris
 I was born not knowing and have had only a little time to change that here and there. - Richard Feynman
+There are only two hard things in Computer Science: cache invalidation and naming things. - Phil Karlton
 The supreme art of war, is to subdue your enemy by having him fight his allies instead of you. - Putin Tsu
 To think is easy. To act is difficult. To act as one thinks is the most difficult. - Johann Wolfgang Von Goethe
 To myself I am only a child playing on the beach, while vast oceans of truth lie undiscovered before me. - Isaac Newton
@@ -327,6 +332,7 @@ The more renowned woman often has fewer rings. - Viking saying
 Brawl with a pig and you go away with his stink. - Viking saying
 Better to fight and fall than to live without hope. - Viking Saying
 A soldier follows orders. A Warrior follows his heart. - Viking Saying
+To a faithful friend, straight are the roads and short. - Viking saying
 To be without silver is better than to be without honour. - Viking saying
 To win any battle, you must fight as if you are already dead. - Viking saying
 Power is only given to those who lower themselves to pick it up. - Viking saying
@@ -356,9 +362,12 @@ A foolish man, who among people comes, had best be silent; for no one knows that
 Ignorance is a virtue. - Ancient Viking Proverb
 Ignorance is no excuse. - Ancient Viking Proverb
 Be strong in your ignorance. - Ancient Viking Proverb
+Pride is the Warrior's Curse. - Ancient Viking Proverb
 An empty mind is a loyal mind. - Ancient Viking Proverb
 Tolerance is a sign of weakness. - Ancient Viking Proverb
 A liar is always lavish of oaths. - Ancient Viking Proverb
+Wars are not won through timidity. - Ancient Viking Proverb
+The flesh is weak, but deeds endure.  - Ancient Viking Proverb
 There is nothing to fear but failure. - Ancient Viking Proverb
 Blessed is the mind too small to doubt. - Ancient Viking Proverb
 A small mind is easily filled with faith. - Ancient Viking Proverb
@@ -370,8 +379,10 @@ When anger rises, think of the consequences. - Ancient Viking Proverb
 Time flows away like the water in the river.	- Ancient Viking Proverb
 Respect yourself and others will respect you. - Ancient Viking Proverb
 Study the past, if you would divine the future. - Ancient Viking Proverb
+You're a card which will have to be dealt with. - Ancient Viking Proverb
 The population needs deception, so deceive them. - Ancient Viking Proverb
 The man who seeks revenge should dig two graves. - Ancient Viking Proverb
+Into the fires of battle, unto the Anvil of War. - Ancient Viking Proverb
 Follow your heart, but take your brain with you. - Ancient Viking Proverb
 Thought begets heresy; Heresy begets retribution. - Ancient Viking Proverb
 You cannot open a book without learning something. - Ancient Viking Proverb
@@ -428,12 +439,14 @@ The problem is not the problem, the problem is your attitude to the problem. - A
 Our greatest glory is not in never falling, but in rising every time we fall. - Ancient Viking Proverb
 The gem cannot be polished without friction, nor man perfected without trials. - Ancient Viking Proverb
 If what one has to say is not better than silence, then one should keep silent. - Ancient Viking Proverb
+We are what we repeatedly do. Excellence, therefore, is not an act, but a habit. - Ancient Viking Proverb
 What the superior man seeks is in himself; what the small man seeks is in others. - Ancient Viking Proverb
 Science is made up of so many things that appear obvious after they are explained. - Ancient Viking Proverb
 Do not be trapped by the need to achieve anything. This way, you achieve everything. - Ancient Viking Proverb
 The risk of confinement to a single planet, outweighs the cost of interstellar travel. - Ancient Viking Proverb
 Our doubts are traitors, and make us lose the good we might win, by fearing the attempt - Ancient Viking Proverb
 Don’t complain about the snow on your neighbor’s roof when your own doorstep is unclean. - Ancient Viking Proverb
+You are scrupulously honest, frank, and straightforward.  Therefore you have few friends. - Ancient Viking Proverb
 Attack the evil that is within yourself, rather than attacking the evil that is in others. - Ancient Viking Proverb
 If you're not pushing the envelope and trying new things, you really aren't trying that hard. - Ancient Viking Proverb
 The hardest thing of all is to find a black cat in a dark room, especially if there is no cat. - Ancient Viking Proverb
@@ -487,8 +500,12 @@ The true science of martial arts means practicing them in such a way that they w
 In fighting and in everyday life you should be determined through calm. Meet the situation without tenseness yet not recklessly, your spirit settled yet unbiased. An elevated spirit is weak and a low spirit is weak. Do not let the enemy see your spirit. - Miyamoto Musashi
 Ignorantia non excusat
 Beware the barrenness of a busy life. - Socrates
+I pray Thee, O God, that I may be beautiful within. - Socrates
+What a lot of things there are a man con do without. - Socrates
 Youth is easily deceived because it is quick to hope. - Aristotle
+We are what we repeatedly do. Excellence, therefore, is not an act, but a habit. - Aristotle
 When one with honeyed words but evil mind Persuades the mob, great woes befall the state. - Euripides
+No man who is not willing to help himself, has any right to apply to his friends, or to the gods. - Demothenes
 Baths, drink and sex corrupt our bodies, but baths, drink and sex make life worth living - Graffiti in Roman Bath
 One person likes tending to his farm, another to his horse; I like to daily monitor my self-improvement. - Socrates
 Passions stem from frustrated desire. - Epictetus
@@ -528,8 +545,8 @@ Jews, Syrians, Egyptians and Romans. They don"t dispute that what is holy should
 If your body was turned over to just anyone, you would doubtless take exception. Why aren"t you ashamed that you have made your mind vulnerable to anyone who happens to criticize you, so that it automatically becomes confused and upset? - Epictetus
 When somebody's wife or child dies, to a man we all routinely say, "Well, that's part of life." But if one of our own family is involved, then right away it's "Poor, poor me!" We would do better to remember how we react when a similar loss afflicts others. - Epictetus
 If a man objects to truths that are all too evident, it is no easy task finding arguments that will change his mind. This is proof neither of his own strength nor of his teacher's weakness. When someone caught in an argument hardens to stone, there is just no more reasoning with them. - Epictetus
-The penalty good men pay for indifference to public affairs is to be ruled by evil men. - Plato
 Our lives begin to end the day we become silent about things that matter. - Martin Luther King
+The penalty good men pay for indifference to public affairs is to be ruled by evil men. - Plato
 Nullius in verba - Motto of The Royal Society
 On the word of no one - Motto of The Royal Society
 If you see something, say nothing; drink to forget!
@@ -543,6 +560,9 @@ Show me a completely smooth operation and I’ll show you someone who’s coveri
 It is so shocking to find out how many people do not believe that they can learn, and how many more believe learning to be difficult. - Frabk Herbert
 Empires do not suffer emptiness of purpose at the time of their creation. It is when they have become established that aims are lost and replaced by vague ritual. - Frank Herbert
 The child who refuses to travel in the father’s harness, this is the symbol of man’s most unique capability. "I do not have to be what my father was. I do not have to obey my father’s rules or even believe everything he believed. It is my strength as a human that I can make my own choices of what to believe and what not to believe, of what to be and what not to be. - Frank Herbert
+Wheresoever you go, go with all your heart. - Confucius
+The will to win, the desire to succeed, the urge to reach your full potential… these are the keys that will unlock the door to personal excellence. - Confucius
+By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest. - Confucius
 Debt is the worst poverty. - Thomas Fuller
 Lying rides upon debt’s back. - Benjamin Franklin
 Debt is the slavery of the free. - Publilius Syrus
@@ -573,18 +593,16 @@ Forgetfulness. A gift of God bestowed upon debtors in compensation for their des
 Today, there are three kinds of people:	the have’s, the have-not’s, and the have-not-paid-for-what-they-have’s. - Earl Wilson
 There are but two ways of paying debt: Increase of industry in raising income, increase of thrift in laying out. - Thomas Carlyle
 Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed. - Romans 13:7
-If you want to go fast, go alone, If you want to go far, go together. - African proverb
-Wheresoever you go, go with all your heart. - Confucius
-The will to win, the desire to succeed, the urge to reach your full potential… these are the keys that will unlock the door to personal excellence. - Confucius
-By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest. - Confucius
-Knowledge is a Continuum. - Magnus The Red.
-Anger is a blindfold; a fools motivation. - Shadrak Meduson
-There is always more to know, more to learn; And every act of learning must come with the knowledge that it is never enough. - Magnus the Red
 Religion is a modesty curtain for ignorance - Perturabo
+My own mind is my own church. - Thomas Paine 1737 - 1809
+Faith is fear dressed up as virtue - Ancient Viking Proverb
 Faith means making a virtue out of not thinking. - Bill Maher
+Never trust people who've only got one book. - Billy Connolly
 To such heights of evil are men driven by religion. - Lucretiusca
+Religion is what keeps the poor from murdering the rich. - Napoleon Bonaparte 
 A book that changed me? The Bible. It turned me into an Atheist. - Andy Hamilton
 Religions are cultural artifacts. We make God, not the other way round. - Iain M. Banks
+A strongly held belief does not automatically deserve respect. - Ancient Viking Proverb
 If something defies belief, a good starting position is not to believe it. - Jamie Whyte
 Science is the great antidote to the poison of enthusiasm and superstition. - Adam Smith
 Designating something 'religious' does not exempt it from ethical analysis. - Randy Cohen
@@ -601,21 +619,37 @@ Religion is like a blind man looking in a black room for a black cat that isn't 
 The word 'heretic' comes from the Greek word 'hairetikos' meaning 'able to choose' which pretty much says it all. - Pat Condell
 There once was a time when all people believed in God and the church ruled. This time was called the Dark Ages. - Richard Lederer
 The argument is not atheism versus creationism. It is logic and reason versus superstition and ignorance. - Ancient Viking Proverb
+It's fine to be a religion man. But if you get too much of the religion, you get out of your mind and do stupid things. - Murat Duka
 When enough people share a delusion, it loses its status as a psychosis and gets a religious tax exemption instead. - Ronald de Sousa
 Books have always been fearful things to priesthoods. Things to police and secure. Dangerous, with radical new ideas. - Magnus The Red
+For me, the Jewish religion like all other religions is an incarnation of the most childish superstitions. - Albert Einstein 1879 - 1955
 No wickedness comes anywhere near the wickedness of a woman... Sin began with a woman and thanks to her we all must die. - Ecclesiasticus 25:19,24
+Just in terms of allocation of time resources, religion is not very efficient. There's a lot more I could be doing on a Sunday morning. - Bill Gates
+There is not enough love and goodness in the world for us to be permitted to give any of it away to imaginary things. - Friedrich Nietzsche 1844-1900
+My own view on religion is that of Lucretius. I regard it as a disease born of fear and as a source of untold misery to the human race. - Bertrand Russell
 The clergy believe that any power confided in me will be exerted in opposition to their schemes, and they believe rightly. - Thomas Jefferson (1743 - 1826)
 Superstition and ignorance always attract the religiously inclined. For the core of religion is the twin pillars of ignorance and fear. - Emperor of Mankind
 Religion ends and philosophy begins, just as alchemy ends and chemistry begins and astrology ends, and astronomy begins. - Christopher Hitchens (1949 - 2011)
 Human beings will find a balanced situation when they do good things not because God says it, but because they feel like doing them. - Olof Palme (1927 - 1986)
 The real problem is not that those who stop believing in God will believe in anything, but that those who have faith in God can justify doing anything. - Simon Morris
+Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people. - Karl Marx 1818-1883
 We have evidence that a Flying Spaghetti Monster created the universe. None of us, of course, were around to see it, but we have written accounts of it. -Bobby Henderson 
 Question with boldness even the existence of God; because, if there be one, he must more approve of the homage of reason than that of blindfolded fear." - Thomas Jefferson
+I distrust those people who know so well what God wants them to do because I notice it always coincides with their own desires. - Susan B. Anthony (suffragist) 1820 - 1906
 The church says the earth is flat, but I know that it is round, for I have seen the shadow on the moon, and I have more faith in a shadow than in the church. - Ferdinand Magellan
 I don't think there's any difference between the pope wearing a large hat and parading around with a smoking purse, and an African painting his face white and praying to a rock. - Howard Stern
 I prefer rationalism to atheism. The question of God and other objects-of-faith are outside reason and play no part in rationalism, thus you don't have to waste your time in either attacking or defending. - Isaac Asimov (1920 - 1992)
+Fix reason firmly in her seat, and call to her tribunal every fact, every opinion. Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason, than that of blindfolded fear. - Thomas Jefferson
 It is individuals who have human rights, not religions or beliefs. To give the latter legal protection would severely curb the individual's right to freedom of expression - as already happens in some Muslim countries, where people of other faiths need to tread very carefully. - Ian Harris
 Shepherds don't look after sheep because they love them - although I do think some shepherds like their sheep too much. They look after their sheep so they can, first, fleece them and second, turn them into meat. That's much more like the priesthood as I know it. - Christopher Hitchens (1949 - 2011)
 I can't say that it's the Koran that causes a husband to beat his wife, but when I was a translator in Holland and we condemned some men for beating their wives, they would pull out the Koran and say, 'Look here, Chapter 4, Verse 34, gives me a reason, and in fact even obligates me, to beat my wife if she's disobedient.' - Ayaan Hirsi Ali
 I cannot imagine a God who rewards and punishes the objects of his creation, whose purposes are modelled after our own - a God, in short, who is but a reflection of human frailty. Neither can I believe that the individual survives the death of his body, although feeble souls harbour such thoughts through fear or ridiculous egotism. - Albert Einstein (1879 - 1955)
 It was, of course, a lie what you read about my religious convictions, a lie which is being systematically repeated. I do not believe in a personal God and I have never denied this but have expressed it clearly. If something is in me which can be called religious then it is the unbounded admiration for the structure of the world so far as our science can reveal it. - Albert Einstein (1879 - 1955)
+By all means let an observant Jewish adult male have his raw-cut penis placed in the mouth of a rabbi. By all means let grown women who distrust their clitoris or their labia have them sawn away by some other wretched adult female. But the conscription of the unprotected child for these purposes is something that even the most dedicated secularist can safely describe as a sin. - Christopher Hitchens
+Knowledge is a Continuum. - Magnus The Red.
+Blood cannot be soaked up by bread. - Kolo, Imperial Fists
+Anger is a blindfold; a fools motivation. - Shadrak Meduson
+The flesh is weak, but deeds endure. - Vulkan, Primarch of the 18th
+Let the motive force castigate the heretek and the experimenter. - Taghmata Dominata
+Power has no limits. Every morsel of power engenders more hunder; it is never satisfied. - Rogal Dorn
+There is always more to know, more to learn; And every act of learning must come with the knowledge that it is never enough. - Magnus the Red
