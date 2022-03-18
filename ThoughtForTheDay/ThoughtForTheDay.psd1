@@ -11,7 +11,7 @@
 	RootModule = 'ThoughtForTheDay.psm1'
 
 	# Version number of this module.
-	ModuleVersion = '1.0.1'
+	ModuleVersion = '1.1.0'
 
 	# ID used to uniquely identify this module
 	GUID = '36b7ffea-5c51-4b38-8ec6-c4c17398a46a'

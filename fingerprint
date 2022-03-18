@@ -1,2 +1,5 @@
+Get-CatFact:open
+Get-CatFact:fact
+Get-CatFact:rate
 Get-ThoughtFortheDayVoice:open
 Get-ThoughtFortheDayVoice:rate
