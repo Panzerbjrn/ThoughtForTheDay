@@ -2,6 +2,7 @@
 Those who hesitate are lost. - Ancient viking proverb
 A small mind is a tidy mind. - Ancient viking proverb
 Knowledge is power, hide it well. - Ancient viking proverb
+Intent alone, bears moral weight. - Ancient viking proverb
 The rising tide raises all boats. - Ancient viking proverb
 Knowledge is power, guard it well. - Ancient viking proverb
 Unity comes to all things. In time. - Ancient viking proverb
@@ -9,6 +10,7 @@ Blood cannot be soaked up by bread. - Ancient viking proverb
 True happiness stems only from duty. - Ancient Viking Proverb
 The flesh is weak, but deeds endure. - Ancient viking proverb
 Break one oath, and the rest crumble. - Ancient viking proverb
+Half-measures are the refuge of fools. - Ancient viking proverb
 A man's as miserable as he thinks he is. - Ancient viking proverb
 Be prepared to appreciate what you meet. - Ancient viking proverb
 Terror Breeds Obedience, but not loyalty. - Ancient Viking Proverb
@@ -17,6 +19,7 @@ Only in duty, do we find true fulfillment. - Ancient viking proverb
 The Known is but a shadow of the Knowable. - Ancient viking proverb
 He hath need of his wits who wanders wide. - Ancient viking proverb
 Excuses are useless. Results are priceless. - Ancient viking proverb
+Hope is the last recourse of the dissolute. - Ancient viking proverb
 Knowledge is too great a burden for the weak. - Ancient viking proverb
 Don't let perfect be the enemy of good enough. - Ancient viking proverb
 Hard work puts you where good luck can find you. - Ancient viking proverb
@@ -29,6 +32,7 @@ Even a man who has nothing can still give his life. - Ancient viking proverb
 Success is commemorated, failure merely remembered. - Ancient viking proverb
 A popular man arouses the jealousy of the powerful. - Ancient viking proverb
 Minds are like books, they only Function when open. - Ancient viking proverb
+To forget a mistake is to be defeated a second time. - Ancient viking proverb
 There is no greater waste, than that of wasted time. - Ancient viking proverb
 Hope is the first step on the road to disappointment. - Ancient viking proverb
 Courage is like a muscle, it is strengthened with use. - Ancient viking proverb
@@ -46,6 +50,7 @@ What we learn from others must chime with something within us. - Ancient viking 
 Any road followed precisely to its end leads precisely nowhere. - Ancient viking proverb
 If you wait for perfect conditions, you'll never get anything done. - Ancient viking proverb
 Treat servers like cattle, not pets. If they're ill, put them down. - Ancient viking proverb
+Alone, a warrior cannot truly finish a battle; but he can start a war. - Ancient viking proverb
 Pain is an illusion of the senses, despair is an illusion of the mind. - Ancient viking proverb
 Discipline is choosing between what you want now and what you want most. - Ancient viking proverb
 The miracle is not that we do this work, but that we are happy to do it. - Ancient viking proverb
@@ -56,6 +61,8 @@ From small acorns of incorrectness mighty oaks of misunderstanding may grow. - A
 The best time to plant a tree was 20 years ago. The second best time is now. - Ancient viking proverb
 Even if you are on the right track, you'll get run over if you just sit there. - Ancient viking proverb
 I'd rather be a failure at something I love than a success at something I hate. - Ancient viking proverb
+Men are not responsible for their dotage anymore than they are for their infancy.. - Ancient viking proverb
+Curiosity is an infection to be quarantined, and dashed against the rocks of duty. - Ancient viking proverb
 No Happiness without order, No order without authority, No authority without unity. - Ancient viking proverb
 Time crumbles things; everything grows old and is forgotten under the power of time. - Ancient viking proverb
 A beginning is the time for taking the most delicate care that the balances are correct. - Ancient viking proverb
@@ -65,6 +72,7 @@ It's completely intuitive; it just takes a few days to learn, but then it's comp
 No battle was ever won that was poorly planned. No plan ever succeeded that was poorly conceived. - Ancient viking proverb
 You can close your eyes to the things you don't want to see, but you cannot close your heart to the things you don't want to feel. - Ancient viking proverb
 A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it. - Ancient viking proverb
+The pursuit of knowledge rivals the pursuit of beauty in its arrogance; both quests are borne of hubris, yet of the two the sin of curiosity cuts deeper and leaves the greater wound. - Ancient viking proverb
 Hope clouds observation. - Frank Herbert
 It is remarkable how many things you can get to explode. - Elon Musk
 Work is the refuge of those who have nothing better to do. - Oscar Wilde
@@ -661,7 +669,10 @@ Blood cannot be soaked up by bread. - Kolo, Imperial Fists
 Anger is a blindfold; a fools motivation. - Shadrak Meduson
 The flesh is weak, but deeds endure. - Vulkan, Primarch of the 18th
 There is nothing to be gained by feeding hungry ghosts. - Commander Puretide
+Ignorance is a shield almost as strong as faith in the throne. - Ciaphais Cain
 Let the motive force castigate the heretek and the experimenter. - Taghmata Dominata
+Curiosity is an infection to be quarantined, and dashed against the rocks of duty. - Dark Angels
 Power has no limits. Every morsel of power engenders more hunder; it is never satisfied. - Rogal Dorn
 There is always more to know, more to learn; And every act of learning must come with the knowledge that it is never enough. - Magnus the Red
 Learn to shorten your reach. If your foe can come close enough to negate your striking power, all strategem is lost. And when all strategem is lost, the battle is lost. - O'Shovah
+The pursuit of knowledge rivals the pursuit of beauty in its arrogance; both quests are borne of hubris, yet of the two the sin of curiosity cuts deeper and leaves the greater wound. - Sermons of Sebastian Thor
