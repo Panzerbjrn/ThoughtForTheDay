@@ -1,93 +1,319 @@
-﻿Knowledge is a Continuum. - Ancient viking proverb
-Loyalty is its own reward. - Ancient viking proverb
-The fish rots from the head. - Ancient viking proverb
-Those who hesitate are lost. - Ancient viking proverb
-A small mind is a tidy mind. - Ancient viking proverb
-Knowledge is power, hide it well. - Ancient viking proverb
-Intent alone, bears moral weight. - Ancient viking proverb
-The rising tide raises all boats. - Ancient viking proverb
-Knowledge is power, guard it well. - Ancient viking proverb
-Unity comes to all things. In time. - Ancient viking proverb
-Blood cannot be soaked up by bread. - Ancient viking proverb
+﻿Deceit sleeps with greed. - Viking saying
+A cleaved head no longer plots. - Viking saying
+No friend is he who but flatters. - Viking saying
+Generous and brave men live the best. - Viking saying
+Put to the sword those that disagree. - Viking saying
+A wise man's heart is seldom cheerful. - Viking saying
+The summer moments always pass quickly. - Viking saying
+The slumbering wolf does not get the ham. - Viking saying
+The wolf and the dog do not play together. - Viking saying
+Fear the reckoning of those you have wronged. - Viking saying
+A warrior can fate anything but fate and time. - Viking saying
+The more renowned woman often has fewer rings. - Viking saying
+Brawl with a pig and you go away with his stink. - Viking saying
+Better to fight and fall than to live without hope. - Viking Saying
+A soldier follows orders. A Warrior follows his heart. - Viking Saying
+To a faithful friend, straight are the roads and short. - Viking saying
+To be without silver is better than to be without honour. - Viking saying
+To win any battle, you must fight as if you are already dead. - Viking saying
+Power is only given to those who lower themselves to pick it up. - Viking saying
+Do not count what you have lost. Count only what you still have. - Viking saying
+It is better to stand and fight. If you run; you'll only die tired. - Viking saying
+No better burden can a man carry on the road than a store of common sense. - Viking saying
+There is mingling in friendship when man can utter all his whole mind to another. - Viking saying
+Two heads cut off and thrown high into the tree have only the winds with which to scheme. - Viking saying
+With his ears let him listen, and look with his eyes; thus each wise man spies out the way. - Viking saying
+Even in the sheath, the sword must be sharp; so too must the mind and spirit be within the body. - Viking saying
+Cattle die, kindred die, we ourselves also die; but the fair fame never dies of him who has earned it. - Viking saying
+Cattle know when to go home, and then from grazing cease; but a foolish man never knows his stomach's measure. - Viking saying
+Cattle die, kindred die, we ourselves also die; but I know one thing that never dies, - judgement on each one dead. - Viking saying
+Cattle die, kinsmen die; the self must also die. I know one thing which never dies: the reputation of each dead man. - Viking saying
+To his friend a man should be a friend, to him and to his friend; but of his foe no man shall the friend's friend be. - Viking saying
+If you know a friend you can fully trust; go often to his house. Grass and brambles grow quickly upon the untrodden track. - Viking saying
+He utters too many futile words who is never silent; a garrulous tongue, if it be not checked, sings often to its own harm. - Viking saying
+A cowardly man thinks he will ever live, if warfare he avoids; but old age will give him no peace, though spears may spare him. - Viking saying
+He should early rise, who another's property or life desires to have. Seldom a sluggish wolf gets prey, or a sleeping man victory. - Viking saying
+A foolish man is all night awake, pondering over everything; he then grows tired; and when morning comes, all is lament as before. - Viking saying
+A foolish man, if he acquires wealth or a woman's love, pride grows within him, but wisdom never: he goes on more and more arrogant. - Viking saying
+Liberal and brave men live best, they seldom cherish sorrow; but a base-minded man dreads everything; the niggardly is uneasy even at gifts. - Viking saying
+Long is and indirect the way to a bad friend's, though by the road he dwell; but to a good friend's the paths lie direct, though he be far away. - Viking saying
+Early should rise he who has few workers, and go his work to see to; greatly is he retarded who sleeps the morn away. Wealth half depends on energy. - Viking saying
+One's own house is best, small though it be, at home is every one his own master. Bleeding at heart is he, who has to ask for food at every meal-tide. - Viking saying
+A foolish man, who among people comes, had best be silent; for no one knows that he knows nothing, unless he talks too much. He who previously knew nothing will still know nothing talk he ever so much. - Viking saying
+Ignorance is a virtue. - Ancient Viking Proverb
+Ignorance is no excuse. - Ancient Viking Proverb
+Loyalty is its own reward. - Ancient Viking Proverb
+The fish rots from the head. - Ancient Viking Proverb
+Those who hesitate are lost. - Ancient Viking Proverb
+A small mind is a tidy mind. - Ancient Viking Proverb
+Be strong in your ignorance. - Ancient Viking Proverb
+Pride is the Warrior's Curse. - Ancient Viking Proverb
+An empty mind is a loyal mind. - Ancient Viking Proverb
+Tolerance is a sign of weakness. - Ancient Viking Proverb
+A liar is always lavish of oaths. - Ancient Viking Proverb
+Knowledge is power, hide it well. - Ancient Viking Proverb
+Intent alone, bears moral weight. - Ancient Viking Proverb
+The rising tide raises all boats. - Ancient Viking Proverb
+Wars are not won through timidity. - Ancient Viking Proverb
+Knowledge is power, guard it well. - Ancient Viking Proverb
+Unity comes to all things. In time. - Ancient Viking Proverb
+Blood cannot be soaked up by bread. - Ancient Viking Proverb
 True happiness stems only from duty. - Ancient Viking Proverb
-The flesh is weak, but deeds endure. - Ancient viking proverb
-Break one oath, and the rest crumble. - Ancient viking proverb
-Half-measures are the refuge of fools. - Ancient viking proverb
-A man's as miserable as he thinks he is. - Ancient viking proverb
-Be prepared to appreciate what you meet. - Ancient viking proverb
+The flesh is weak, but deeds endure. - Ancient Viking Proverb
+Break one oath, and the rest crumble. - Ancient Viking Proverb
+The flesh is weak, but deeds endure.  - Ancient Viking Proverb
+There is nothing to fear but failure. - Ancient Viking Proverb
+Half-measures are the refuge of fools. - Ancient Viking Proverb
+Blessed is the mind too small to doubt. - Ancient Viking Proverb
+A man's as miserable as he thinks he is. - Ancient Viking Proverb
+Be prepared to appreciate what you meet. - Ancient Viking Proverb
 Terror Breeds Obedience, but not loyalty. - Ancient Viking Proverb
-Anger is a blindfold; a fools motivation. - Ancient viking proverb
-Only in duty, do we find true fulfillment. - Ancient viking proverb
-The Known is but a shadow of the Knowable. - Ancient viking proverb
-He hath need of his wits who wanders wide. - Ancient viking proverb
-Excuses are useless. Results are priceless. - Ancient viking proverb
-Hope is the last recourse of the dissolute. - Ancient viking proverb
-Knowledge is too great a burden for the weak. - Ancient viking proverb
-Don't let perfect be the enemy of good enough. - Ancient viking proverb
-Hard work puts you where good luck can find you. - Ancient viking proverb
-There is glory in obedience, Fitness in purpose. - Ancient viking proverb
-If you cannot succeed, strive to fail gracefully. - Ancient viking proverb
-Victory needs no explanation, defeat allows none. - Ancient viking proverb
-Who is wealthy? He who is happy with what he has. - Ancient viking proverb
-There is nothing is impossible to him who will try. - Ancient viking proverb
-Even a man who has nothing can still give his life. - Ancient viking proverb
-Success is commemorated, failure merely remembered. - Ancient viking proverb
-A popular man arouses the jealousy of the powerful. - Ancient viking proverb
-Minds are like books, they only Function when open. - Ancient viking proverb
-To forget a mistake is to be defeated a second time. - Ancient viking proverb
-There is no greater waste, than that of wasted time. - Ancient viking proverb
-Hope is the first step on the road to disappointment. - Ancient viking proverb
-Courage is like a muscle, it is strengthened with use. - Ancient viking proverb
-Only the awkward question; only the foolish ask twice. - Ancient viking proverb
-Embrace death without regret. Embrace life without fear. - Ancient viking proverb
-We can shape our destiny, but we cannot escape our fate. - Ancient viking proverb
-War is Peace, Freedom is Slavery, Ignorance is Strength. - Ancient viking proverb
-The only way to guarantee failure is to never try at all. - Ancient viking proverb
-The only good is knowledge and the only evil is ignorance. - Ancient viking proverb
-An excess of emotion is as much a weakness as a lack of it. - Ancient viking proverb
-Parting with friends is a sadness. A place is only a place. - Ancient viking proverb
-Laziness fuels more laziness. Activity fuels more activity. - Ancient viking proverb
-Prepare your child for the path, not the path for your child. - Ancient viking proverb
-What we learn from others must chime with something within us. - Ancient viking proverb
-Any road followed precisely to its end leads precisely nowhere. - Ancient viking proverb
-If you wait for perfect conditions, you'll never get anything done. - Ancient viking proverb
-Treat servers like cattle, not pets. If they're ill, put them down. - Ancient viking proverb
-Alone, a warrior cannot truly finish a battle; but he can start a war. - Ancient viking proverb
-Pain is an illusion of the senses, despair is an illusion of the mind. - Ancient viking proverb
-Discipline is choosing between what you want now and what you want most. - Ancient viking proverb
-The miracle is not that we do this work, but that we are happy to do it. - Ancient viking proverb
-There are only two days where nothing can be done: Yesterday and Tomorrow. - Ancient viking proverb
-The mystery of life isn't a problem to solve, but a reality to experience. - Ancient viking proverb
-Big jobs usually go to those who prove their ability to outgrow small ones. - Ancient viking proverb
-From small acorns of incorrectness mighty oaks of misunderstanding may grow. - Ancient viking proverb
-The best time to plant a tree was 20 years ago. The second best time is now. - Ancient viking proverb
-Even if you are on the right track, you'll get run over if you just sit there. - Ancient viking proverb
-I'd rather be a failure at something I love than a success at something I hate. - Ancient viking proverb
-Men are not responsible for their dotage anymore than they are for their infancy.. - Ancient viking proverb
-Curiosity is an infection to be quarantined, and dashed against the rocks of duty. - Ancient viking proverb
-No Happiness without order, No order without authority, No authority without unity. - Ancient viking proverb
-Time crumbles things; everything grows old and is forgotten under the power of time. - Ancient viking proverb
-A beginning is the time for taking the most delicate care that the balances are correct. - Ancient viking proverb
-A gift consists not in what is done or given, but in the intention of the giver or doer. - Ancient viking proverb
-Power has no limits. Every morsel of power engenders more hunger; it is never satisfied. - Ancient viking proverb
-It's completely intuitive; it just takes a few days to learn, but then it's completely intuitive. - Ancient viking proverb
-No battle was ever won that was poorly planned. No plan ever succeeded that was poorly conceived. - Ancient viking proverb
-You can close your eyes to the things you don't want to see, but you cannot close your heart to the things you don't want to feel. - Ancient viking proverb
-A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it. - Ancient viking proverb
-The pursuit of knowledge rivals the pursuit of beauty in its arrogance; both quests are borne of hubris, yet of the two the sin of curiosity cuts deeper and leaves the greater wound. - Ancient viking proverb
-Hope clouds observation. - Frank Herbert
+Anger is a blindfold; a fools motivation. - Ancient Viking Proverb
+A small mind is easily filled with faith. - Ancient Viking Proverb
+The funniest people are the saddest ones. - Ancient Viking Proverb
+Forget injuries, never forget kindnesses. - Ancient Viking Proverb
+Only in duty, do we find true fulfillment. - Ancient Viking Proverb
+The Known is but a shadow of the Knowable. - Ancient Viking Proverb
+He hath need of his wits who wanders wide. - Ancient Viking Proverb
+Silence is a true friend who never betrays. - Ancient Viking Proverb
+Excuses are useless. Results are priceless. - Ancient Viking Proverb
+Hope is the last recourse of the dissolute. - Ancient Viking Proverb
+Education is no substitute for intelligence. - Ancient Viking Proverb
+When anger rises, think of the consequences. - Ancient Viking Proverb
+Knowledge is too great a burden for the weak. - Ancient Viking Proverb
+Respect yourself and others will respect you. - Ancient Viking Proverb
+Don't let perfect be the enemy of good enough. - Ancient Viking Proverb
+Time flows away like the water in the river.	- Ancient Viking Proverb
+Study the past, if you would divine the future. - Ancient Viking Proverb
+You're a card which will have to be dealt with. - Ancient Viking Proverb
+Hard work puts you where good luck can find you. - Ancient Viking Proverb
+There is glory in obedience, Fitness in purpose. - Ancient Viking Proverb
+The population needs deception, so deceive them. - Ancient Viking Proverb
+The man who seeks revenge should dig two graves. - Ancient Viking Proverb
+Into the fires of battle, unto the Anvil of War. - Ancient Viking Proverb
+Follow your heart, but take your brain with you. - Ancient Viking Proverb
+If you cannot succeed, strive to fail gracefully. - Ancient Viking Proverb
+Victory needs no explanation, defeat allows none. - Ancient Viking Proverb
+Who is wealthy? He who is happy with what he has. - Ancient Viking Proverb
+Thought begets heresy; Heresy begets retribution. - Ancient Viking Proverb
+You cannot open a book without learning something. - Ancient Viking Proverb
+Only the wisest and stupidest of men never change. - Ancient Viking Proverb
+Better a diamond with a flaw than a pebble without. - Ancient Viking Proverb
+Good things come to those who go out and earn them. - Ancient Viking Proverb
+Seek Honour as you act, and you shall know no fear. - Ancient Viking Proverb
+The storm rises only so the thunderbolt may strike. - Ancient Viking Proverb
+There is nothing is impossible to him who will try. - Ancient Viking Proverb
+Even a man who has nothing can still give his life. - Ancient Viking Proverb
+Success is commemorated, failure merely remembered. - Ancient Viking Proverb
+A popular man arouses the jealousy of the powerful. - Ancient Viking Proverb
+If you see something, say nothing; drink to forget! - Ancient Viking Proverb
+Minds are like books, they only Function when open. - Ancient Viking Proverb
+To forget a mistake is to be defeated a second time. - Ancient Viking Proverb
+There is no greater waste, than that of wasted time. - Ancient Viking Proverb
+And remember, no matter where you go, there you are. - Ancient Viking Proverb
+Hold faithfulness and sincerity as first principles. - Ancient Viking Proverb
+The rewards of tolerance are treachery and betrayal. - Ancient Viking Proverb
+Hope is the first step on the road to disappointment. - Ancient Viking Proverb
+A lion does not lose sleep over the opinion of sheep. - Ancient Viking Proverb
+Courage is like a muscle, it is strengthened with use. - Ancient Viking Proverb
+Only the awkward question; only the foolish ask twice. - Ancient Viking Proverb
+Refusing to decide, is the worst decision you can make. - Ancient Viking Proverb
+Strong people don't put others down, they lift them up. - Ancient Viking Proverb
+Real knowledge is to know the extent of one’s ignorance. - Ancient Viking Proverb
+Embrace death without regret. Embrace life without fear. - Ancient Viking Proverb
+We can shape our destiny, but we cannot escape our fate. - Ancient Viking Proverb
+War is Peace, Freedom is Slavery, Ignorance is Strength. - Ancient Viking Proverb
+The only way to guarantee failure is to never try at all. - Ancient Viking Proverb
+The difference between heresy and treachery is ignorance. - Ancient Viking Proverb
+The only good is knowledge and the only evil is ignorance. - Ancient Viking Proverb
+Before you embark on a journey of revenge, dig two graves. - Ancient Viking Proverb
+To see what is right and not do it is the worst cowardice. - Ancient Viking Proverb
+Do not underestimate the power of impression over reality. - Ancient Viking Proverb
+It is a great thing to take any step that leads us onwards. - Ancient Viking Proverb
+There is no such thing as innocence, only degrees of guilt. - Ancient Viking Proverb
+What you do not want done to yourself, do not do to others. - Ancient Viking Proverb
+An excess of emotion is as much a weakness as a lack of it. - Ancient Viking Proverb
+Parting with friends is a sadness. A place is only a place. - Ancient Viking Proverb
+Laziness fuels more laziness. Activity fuels more activity. - Ancient Viking Proverb
+Do something today that your future self will thank you for. - Ancient Viking Proverb
+To be wealthy and honored in an unjust society is a disgrace. - Ancient Viking Proverb
+Prepare your child for the path, not the path for your child. - Ancient Viking Proverb
+There's no secret to balance. You just have to feel the waves. - Ancient Viking Proverb
+The eye that looks ahead to the safe course is closed forever. - Ancient Viking Proverb
+Life is really simple, but we insist on making it complicated. - Ancient Viking Proverb
+What we learn from others must chime with something within us. - Ancient Viking Proverb
+Any road followed precisely to its end leads precisely nowhere. - Ancient Viking Proverb
+The beginning of wisdom is to call things by their proper name. - Ancient Viking Proverb
+It does not matter how slowly you go as long as you do not stop. - Ancient Viking Proverb
+I hear and I forget. I see and I remember. I do and I understand. - Ancient Viking Proverb
+Without knowing the force of words, it is impossible to know more. - Ancient Viking Proverb
+The man who moves a mountain begins by carrying away small stones. - Ancient Viking Proverb
+He who knows all the answers has not been asked all the questions. - Ancient Viking Proverb
+You cannot save money. you can either risk it, use it, or lose it. - Ancient Viking Proverb
+A man without a vision for his future, always returns to his past. - Ancient Viking Proverb
+That which is unknown and unseen always commands the greatest fear. - Ancient Viking Proverb
+The only time you run out of chances, is when you stop taking them. - Ancient Viking Proverb
+Victory is simply the accumulation of countless unimportant events. - Ancient Viking Proverb
+If you wait for perfect conditions, you'll never get anything done. - Ancient Viking Proverb
+Treat servers like cattle, not pets. If they're ill, put them down. - Ancient Viking Proverb
+If people are trying to bring you down, it means you are above them. - Ancient Viking Proverb
+On the journey of finding the right balance, you will find yourself. - Ancient Viking Proverb
+Doubt is the open gate through which slips the most fatal of enemies. - Ancient Viking Proverb
+Religion is an advertising campaign for a product that doesn't exist. - Ancient Viking Proverb
+Consideration for others is the basis of a good life, a good society. - Ancient Viking Proverb
+Never contract friendship with a man that is not better than thyself. - Ancient Viking Proverb
+An open mind is like a fortress with its gates unbarred and unguarded. - Ancient Viking Proverb
+Alone, a warrior cannot truly finish a battle; but he can start a war. - Ancient Viking Proverb
+Pain is an illusion of the senses, despair is an illusion of the mind. - Ancient Viking Proverb
+If you make a mistake and do not correct it, this is called a mistake. - Ancient Viking Proverb
+Music produces a kind of pleasure which human nature cannot do without. - Ancient Viking Proverb
+To know what you know and what you do not know, that is true knowledge. - Ancient Viking Proverb
+Education breeds confidence. Confidence breeds hope. Hope breeds peace. - Ancient Viking Proverb
+It is more shameful to distrust our friends than to be deceived by them. - Ancient Viking Proverb
+A dream without a goal is a wish. A goal without a plan is just a dream. - Ancient Viking Proverb
+Discipline is choosing between what you want now and what you want most. - Ancient Viking Proverb
+The miracle is not that we do this work, but that we are happy to do it. - Ancient Viking Proverb
+There are only two days where nothing can be done: Yesterday and Tomorrow. - Ancient Viking Proverb
+The mystery of life isn't a problem to solve, but a reality to experience. - Ancient Viking Proverb
+The difference between who you are and who you want to be, is what you do. - Ancient Viking Proverb
+The superior man thinks always of virtue; the common man thinks of comfort. - Ancient Viking Proverb
+You never know how strong you are until strong is the only choice you have. - Ancient Viking Proverb
+Big jobs usually go to those who prove their ability to outgrow small ones. - Ancient Viking Proverb
+From small acorns of incorrectness mighty oaks of misunderstanding may grow. - Ancient Viking Proverb
+The best time to plant a tree was 20 years ago. The second best time is now. - Ancient Viking Proverb
+The problem is not the problem, the problem is your attitude to the problem. - Ancient Viking Proverb
+Our greatest glory is not in never falling, but in rising every time we fall. - Ancient Viking Proverb
+The gem cannot be polished without friction, nor man perfected without trials. - Ancient Viking Proverb
+Even if you are on the right track, you'll get run over if you just sit there. - Ancient Viking Proverb
+I'd rather be a failure at something I love than a success at something I hate. - Ancient Viking Proverb
+If what one has to say is not better than silence, then one should keep silent. - Ancient Viking Proverb
+We are what we repeatedly do. Excellence, therefore, is not an act, but a habit. - Ancient Viking Proverb
+Youcan avoid reality, but you cannot avoid the consequences of avoiding reality. - Ancient Viking Proverb
+What the superior man seeks is in himself; what the small man seeks is in others. - Ancient Viking Proverb
+When you are bowing your head to one person, you are showing your ass to another. - Ancient Viking Proverb
+Men are not responsible for their dotage anymore than they are for their infancy. - Ancient Viking Proverb
+Curiosity is an infection to be quarantined, and dashed against the rocks of duty. - Ancient Viking Proverb
+Science is made up of so many things that appear obvious after they are explained. - Ancient Viking Proverb
+No Happiness without order, No order without authority, No authority without unity. - Ancient Viking Proverb
+Do not be trapped by the need to achieve anything. This way, you achieve everything. - Ancient Viking Proverb
+Time crumbles things; everything grows old and is forgotten under the power of time. - Ancient Viking Proverb
+The risk of confinement to a single planet, outweighs the cost of interstellar travel. - Ancient Viking Proverb
+Our doubts are traitors, and make us lose the good we might win, by fearing the attempt - Ancient Viking Proverb
+Don’t complain about the snow on your neighbor’s roof when your own doorstep is unclean. - Ancient Viking Proverb
+A beginning is the time for taking the most delicate care that the balances are correct. - Ancient Viking Proverb
+A gift consists not in what is done or given, but in the intention of the giver or doer. - Ancient Viking Proverb
+Power has no limits. Every morsel of power engenders more hunger; it is never satisfied. - Ancient Viking Proverb
+You are scrupulously honest, frank, and straightforward.  Therefore you have few friends. - Ancient Viking Proverb
+Attack the evil that is within yourself, rather than attacking the evil that is in others. - Ancient Viking Proverb
+If you're not pushing the envelope and trying new things, you really aren't trying that hard. - Ancient Viking Proverb
+Being able to deduct your mortgage from your taxes, but not your rent is a form of class war. - Ancient Viking Proverb
+The hardest thing of all is to find a black cat in a dark room, especially if there is no cat. - Ancient Viking Proverb
+The supreme art of war, is to subdue your enemy by having him fight his allies instead of you. - Ancient Viking Proverb
+He who learns but does not think, is lost! He who thinks but does not learn is in great danger. - Ancient Viking Proverb
+The more man meditates upon good thoughts, the better will be his world and the world at large. - Ancient Viking Proverb
+The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. - Ancient Viking Proverb
+Good intentions can bring about as much destruction as evil. Either way, the result is the same. - Ancient Viking Proverb
+It's completely intuitive; it just takes a few days to learn, but then it's completely intuitive. - Ancient Viking Proverb
+No battle was ever won that was poorly planned. No plan ever succeeded that was poorly conceived. - Ancient Viking Proverb
+Try looking into that place where you dare not look! You'll find yourself there, staring out at you. - Ancient Viking Proverb
+Success depends upon previous preparation, and without such preparation there is sure to be failure. - Ancient Viking Proverb
+I will not be concerned at other men’s not knowing me; I will be concerned at my own want of ability. - Ancient Viking Proverb
+When it is obvious that the goals cannot be reached, don’t adjust the goals, adjust the action steps. - Ancient Viking Proverb
+Everyone you meet is fighting a battle you don't know about. Attack them. Now they're fighting two battles. - Ancient Viking Proverb
+No one is ever completely forced into his position in life. We all have opportunities to take different paths. - Ancient Viking Proverb
+The man of wisdom is never of two minds; the man of benevolence never worries; the man of courage is never afraid. - Ancient Viking Proverb
+You must remember, the most important rule of any successful illusion: First, the people must want to believe in it. - Ancient Viking Proverb
+Discovery is dangerous... But so is life. A man unwilling to take risk is doomed never to learn, never to grow, never to live. - Ancient Viking Proverb
+When you see a good person, think of becoming like her/him. When you see someone not so good, reflect on your own weak points. - Ancient Viking Proverb
+If some years were added to my life, I would give fifty to the study of the Yi, and then I might come to be without great faults. - Ancient Viking Proverb
+If you think in terms of a year, plant a seed; if in terms of ten years, plant trees; if in terms of 100 years, teach the people. - Ancient Viking Proverb
+You can close your eyes to the things you don't want to see, but you cannot close your heart to the things you don't want to feel. - Ancient Viking Proverb
+A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it. - Ancient Viking Proverb
+It is not the failure of others to appreciate your abilities that should trouble you, but rather your failure to appreciate theirs. - Ancient Viking Proverb
+In a country well governed, poverty is something to be ashamed of. In a country badly governed, wealth is something to be ashamed of. - Ancient Viking Proverb
+The superior man is distressed by the limitations of his ability; he is not distressed by the fact that men do not recognize the ability that he has. - Ancient Viking Proverb
+To practice five things under all circumstances constitutes perfect virtue; these five are gravity, generosity of soul, sincerity, earnestness, and kindness. - Ancient Viking Proverb
+The pursuit of knowledge rivals the pursuit of beauty in its arrogance; both quests are borne of hubris, yet of the two the sin of curiosity cuts deeper and leaves the greater wound. - Ancient Viking Proverb
+It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve; and bad things are very easy to get. - Ancient Viking ProverbKnowledge is a Continuum. - Ancient Viking Proverb
+Le derecha oprime, la izquierda libera. - Spanish saying
+The right oppresses, the left liberates. - Spanish saying
+If you want to go fast, go alone, If you want to go far, go together. - African proverb
+Nullius in verba - Motto of The Royal Society
+On the word of no one - Motto of The Royal Society
+Opportunities multiply as they are seized. - Sun Tzu
+The boldest measures are the safest. - Horatio Nelson
+Success demands a singleness of purpose - Vince Lombardi
+The measure of a man is what he does with power. - Plato
+The purpose of life is a life of purpose. - Robert Byrne
+Ignorance is bold and knowledge is reserved. - Thucydides
+A mistake repeated more than once is a choice. - Paolo Coelho
+Action is the foundational key to all success. - Pablo Picasso
 Have no fear of perfection; you'll never reach it. - Salvador Dalí
+When the rich wage war, it is the poor who die. - Jean-Paul Sartre
 It is remarkable how many things you can get to explode. - Elon Musk
 It is difficult to free fools from the chains they revere. - Voltaire
+Our sins are more easily remembered than our good deeds. - Democritus
+Facts do not cease to exist because they are ignored. - Aldous Huxley
 Work is the refuge of those who have nothing better to do. - Oscar Wilde
+Only those who dare go too far, know how far they can go. - Walther Bishop
 There is no truth in the news. And no news in the truth. - Old Russian Joke
 Everyone pities the weak; Jealousy you have to earn. - Arnold Schwarzenegger
+A mind is like a parachute. It doesn't work if it is not open. - Frank Zappa
+A truth can walk naked, but a lie always needs to be dressed. - Khalil Gibran
+Don't be pushed by your problems. Be led by your dreams. - Ralph Waldo Emerson
+Nowadays people know the price of everything and value of nothing. - Oscar Wilde
 Knowing is not enough, we must apply. Willing is not enough, we must do. - Bruce Lee
+Talk not of wasted affection; affection never was wasted. - Henry Wadsworth Longfellow
+When you change the way you look at things, the things you look at change. - Max Planck
+Never be deceived that the rich will permit you to vote away their wealth. - Lucy Parsons
+Nothing is so necessary for a young man as the company of intelligent women. - Leo Tolstoy
+You should take the approach that you're wrong. Your goal is to be less wrong. - Elon Musk
+A reader lives a thousand lives before he dies. The man who never reads lives only one. GRRM
+Our lives begin to end the day we become silent about things that matter. - Martin Luther King
+The penalty good men pay for indifference to public affairs is to be ruled by evil men. - Plato
+Every sentence I utter must be understood not as an affirmation, but as a question. - Niels Bohr
 The pursuit of perfection is not the addition of qualities, but the removal of flaws. - Bruce Lee
+If you see distraction externally, you end up creating an internally distracted state. - Tim Ferris
+I was born not knowing and have had only a little time to change that here and there. - Richard Feynman
+There are only two hard things in Computer Science: cache invalidation and naming things. - Phil Karlton
+Before you heal someone, ask him if he is willing to give up the things that make him sick. - Hippocrates
 Talent hits a target no one else can hit. Genius hits a target no one else can see. - Arthur Schopenhauer
+The supreme art of war, is to subdue your enemy by having him fight his allies instead of you. - Putin Tsu
+To think is easy. To act is difficult. To act as one thinks is the most difficult. - Johann Wolfgang Von Goethe
+I propose to raise a revolution against the lie that the majority has the monopoly of the truth. - Henrik Ibsen
+Politicians should wear sponsor jackets like NASCAR drivers, then we would know who owns them. - Robbie Williams
+Because a body of men, holding themselves accountable to nobody, ought not to be trusted by anybody. - Thomas Paine
+If you have chosen neutrality in situations of injustice, you have chosen the side of the oppressor. - Desmond Tutu
+People demand freedom of speech as a compensation for the freedom of thought which they seldom use. - Søren Kierkegård
+To myself I am only a child playing on the beach, while vast oceans of truth lie undiscovered before me. - Isaac Newton
+Book and all forms of writing have always been objects of terror to those who seek to supporess the truth. - Wole Soyinka
+You meet saints everywhere. They can be anywhere. They are people behaving decently in an indecent society. - Kurt Vonnegut
+Marxism remains the philosophy of our times because we have not gone beyond the circumstances which created it. - Jean-Paul Sartre
+Whenever someone says "Like a boss", I assume that means they didn't do it at all and are merely taking credit for it. - Bill Murray.
+When it comes to  revolutionaries, trust only the sad ones. The enthusiastic ones are the oppressors of tomorrow. - William T. Vollman
+It is undesirable to believe a proposition when there is no ground whatsoever for supposing it is true. - Bertrand Russell (1872 - 1970)
+Football, beer, and above all, gambling filled up the horizon of their minds. To keep them in control was not difficult. - George Orwell, 1984
+The less talent the have, the more pride, vanity and arrogance they have. All these fools, however, find other fools who applaud them. - Erasmus
 There are two kinds of people who never amount to much: Those who cannot do what they are told, and those who can do nothing else. - Cyrus Kotzschmar
+Politically, the weakness of the argument has alwys been that those who choose the lesser evil forget very quickly that they chose evil. - Hannah Arendt
+Talking union is the best kind of talking you can do; Union in your house. Union in your street. Union in your town. Union around the workd. - Woody Guthrie
+Nobody in the world, nobody in history, has ever gotten their freedom by appealing to the moral sense of the people who were oppressing them. - Assata Shakur
+Capitalism is the extraordinary belief that the nastiest of men for the nastiest of motives will somehow work together for the benefit of all. John Maynard Keynes
+I prefer to be true to myself, even at athe hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence. - Frederick Douglas
+A stuppid man's report of what a clever man says is never accurate, because he unconsciously translates what he hears into something that he can understand. - Bertrand Russel
+Communism deprives no man of the power to appropriate the products of society; all that it does is to deprive him of the power to subjugate the labour of others by means of such appropriation. - Karl Marx
+The West won the worls not by superiority of its ideas or religion... but rather by its superiority in applying organized violence. Westerners often forget that fact; non-Westerners never do. - Samuel P. Huntington
+I sit on a man's back choking him and making him carry me, and yet I assure myself and others that I am sorry for him and wish to lighten his load by all means possible... Except by getting off his back. - Leo Tolstoy
+The problem isn't a lack of money, food, water or land. The problem is that you've given over control of these things to a group of greedy psychopaths who care more about maintaining their own power than helping mankind. - Bill Hicks
 The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency. - Bill Gates
-The boldest measures are the safest. - Horatio Nelson
+In the middle of difficulty lies opportunity. - Albert Einstein (1879 - 1955)
+The idea of a personal God is quite alien to me and seems even naive. - Albert Einstein (1879 - 1955)
+For me, the Jewish religion like all other religions is an incarnation of the most childish superstitions. - Albert Einstein (1879 - 1955)
+The real purpose of socialism is precisely to overcome and advance beyond the predatory phase of human development. - Albert Einstein (1879 - 1955)
+The contemplation of this world beckoned as a liberation. The road to this paradise was not as comfortable and alluring as the road to the religious paradise; but it has shown itself reliable, and I have never regretted having chosen it. - Albert Einstein (1879 - 1955)
+I am convinced there is only one way to eliminate these grave evils, namely through the establishment of a socialist economy, accompanied by an educational system which would be orientated toward social goals. In such an economy, the means of production are owned by society itself and are utilisedin a planned fashion. - Albert Einstein (1879 - 1955)
+I cannot imagine a God who rewards and punishes the objects of his creation, whose purposes are modelled after our own - a God, in short, who is but a reflection of human frailty. Neither can I believe that the individual survives the death of his body, although feeble souls harbour such thoughts through fear or ridiculous egotism. - Albert Einstein (1879 - 1955)
+It was, of course, a lie what you read about my religious convictions, a lie which is being systematically repeated. I do not believe in a personal God and I have never denied this but have expressed it clearly. If something is in me which can be called religious then it is the unbounded admiration for the structure of the world so far as our science can reveal it. - Albert Einstein (1879 - 1955)
 Self power exists as pure belonging - Wisdom of Chopra
 The soul is the path to objective belonging - Wisdom of Chopra
 Perceptual reality opens unparalleled success - Wisdom of Chopra
@@ -95,6 +321,7 @@ The ego is the foundation of subjective abstract beauty - Wisdom of Chopra
 Everything arises and subsides in an abundance of balance - Wisdom of Chopra
 Non-judgment arises and subsides in the progressive expansion of excellence - Wisdom of Chopra
 Beware of the person of only one book. - Thomas Aquinas
+No evil can be excused because it was done with good intentions. - Thomas Aquinas
 No great thing is created suddenly. - Epictetus
 No man is free who is not master of himself. - Epictetus
 Wealth consists not in having great possessions, but in having few wants. - Epictetus
@@ -318,182 +545,6 @@ Whoever cultivates the golden mean avoids both the poverty of a hovel and the en
 To flee vice is the beginning of virtue, and to have got rid of folly is the beginning of wisdom. - Horace
 For why do you hasten to remove things that hurt your eyes, but if anything gnaws your mind, defer the time of curing it from year to year? - Horace
 The man who is tenacious of purpose in a rightful cause is not shaken from his firm resolve by the frenzy of his fellow citizens clamoring for what is wrong, or by the tyrant's threatening countenance. - Horace
-Opportunities multiply as they are seized. - Sun Tzu
-Success demands a singleness of purpose - Vince Lombardi
-The purpose of life is a life of purpose. - Robert Byrne
-Ignorance is bold and knowledge is reserved. - Thucydides
-Action is the foundational key to all success. - Pablo Picasso
-In the middle of difficulty lies opportunity. - Albert Einstein
-Our sins are more easily remembered than our good deeds. - Democritus
-Only those who dare go too far, know how far they can go. - Walther Bishop
-Don't be pushed by your problems. Be led by your dreams. - Ralph Waldo Emerson
-Talk not of wasted affection; affection never was wasted. - Henry Wadsworth Longfellow
-If you want to go fast, go alone, If you want to go far, go together. - African proverb
-When you change the way you look at things, the things you look at change. - Max Planck
-You should take the approach that you're wrong. Your goal is to be less wrong. - Elon Musk
-Every sentence I utter must be understood not as an affirmation, but as a question. - Niels Bohr
-If you see distraction externally, you end up creating an internally distracted state. - Tim Ferris
-I was born not knowing and have had only a little time to change that here and there. - Richard Feynman
-There are only two hard things in Computer Science: cache invalidation and naming things. - Phil Karlton
-The supreme art of war, is to subdue your enemy by having him fight his allies instead of you. - Putin Tsu
-To think is easy. To act is difficult. To act as one thinks is the most difficult. - Johann Wolfgang Von Goethe
-To myself I am only a child playing on the beach, while vast oceans of truth lie undiscovered before me. - Isaac Newton
-It is undesirable to believe a proposition when there is no ground whatsoever for supposing it is true. - Bertrand Russell (1872 - 1970)
-Deceit sleeps with greed. - Viking saying
-A cleaved head no longer plots. - Viking saying
-No friend is he who but flatters. - Viking saying
-Generous and brave men live the best. - Viking saying
-Put to the sword those that disagree. - Viking saying
-A wise man's heart is seldom cheerful. - Viking saying
-The summer moments always pass quickly. - Viking saying
-The slumbering wolf does not get the ham. - Viking saying
-The wolf and the dog do not play together. - Viking saying
-Fear the reckoning of those you have wronged. - Viking saying
-A warrior can fate anything but fate and time. - Viking saying
-The more renowned woman often has fewer rings. - Viking saying
-Brawl with a pig and you go away with his stink. - Viking saying
-Better to fight and fall than to live without hope. - Viking Saying
-A soldier follows orders. A Warrior follows his heart. - Viking Saying
-To a faithful friend, straight are the roads and short. - Viking saying
-To be without silver is better than to be without honour. - Viking saying
-To win any battle, you must fight as if you are already dead. - Viking saying
-Power is only given to those who lower themselves to pick it up. - Viking saying
-Do not count what you have lost. Count only what you still have. - Viking saying
-It is better to stand and fight. If you run; you'll only die tired. - Viking saying
-No better burden can a man carry on the road than a store of common sense. - Viking saying
-There is mingling in friendship when man can utter all his whole mind to another. - Viking saying
-Two heads cut off and thrown high into the tree have only the winds with which to scheme. - Viking saying
-With his ears let him listen, and look with his eyes; thus each wise man spies out the way. - Viking saying
-Even in the sheath, the sword must be sharp; so too must the mind and spirit be within the body. - Viking saying
-Cattle die, kindred die, we ourselves also die; but the fair fame never dies of him who has earned it. - Viking saying
-Cattle know when to go home, and then from grazing cease; but a foolish man never knows his stomach's measure. - Viking saying
-Cattle die, kindred die, we ourselves also die; but I know one thing that never dies, - judgement on each one dead. - Viking saying
-Cattle die, kinsmen die; the self must also die. I know one thing which never dies: the reputation of each dead man. - Viking saying
-To his friend a man should be a friend, to him and to his friend; but of his foe no man shall the friend's friend be. - Viking saying
-If you know a friend you can fully trust; go often to his house. Grass and brambles grow quickly upon the untrodden track. - Viking saying
-He utters too many futile words who is never silent; a garrulous tongue, if it be not checked, sings often to its own harm. - Viking saying
-A cowardly man thinks he will ever live, if warfare he avoids; but old age will give him no peace, though spears may spare him. - Viking saying
-He should early rise, who another's property or life desires to have. Seldom a sluggish wolf gets prey, or a sleeping man victory. - Viking saying
-A foolish man is all night awake, pondering over everything; he then grows tired; and when morning comes, all is lament as before. - Viking saying
-A foolish man, if he acquires wealth or a woman's love, pride grows within him, but wisdom never: he goes on more and more arrogant. - Viking saying
-Liberal and brave men live best, they seldom cherish sorrow; but a base-minded man dreads everything; the niggardly is uneasy even at gifts. - Viking saying
-Long is and indirect the way to a bad friend's, though by the road he dwell; but to a good friend's the paths lie direct, though he be far away. - Viking saying
-Early should rise he who has few workers, and go his work to see to; greatly is he retarded who sleeps the morn away. Wealth half depends on energy. - Viking saying
-One's own house is best, small though it be, at home is every one his own master. Bleeding at heart is he, who has to ask for food at every meal-tide. - Viking saying
-A foolish man, who among people comes, had best be silent; for no one knows that he knows nothing, unless he talks too much. He who previously knew nothing will still know nothing talk he ever so much. - Viking saying
-Ignorance is a virtue. - Ancient Viking Proverb
-Ignorance is no excuse. - Ancient Viking Proverb
-Be strong in your ignorance. - Ancient Viking Proverb
-Pride is the Warrior's Curse. - Ancient Viking Proverb
-An empty mind is a loyal mind. - Ancient Viking Proverb
-Tolerance is a sign of weakness. - Ancient Viking Proverb
-A liar is always lavish of oaths. - Ancient Viking Proverb
-Wars are not won through timidity. - Ancient Viking Proverb
-The flesh is weak, but deeds endure.  - Ancient Viking Proverb
-There is nothing to fear but failure. - Ancient Viking Proverb
-Blessed is the mind too small to doubt. - Ancient Viking Proverb
-A small mind is easily filled with faith. - Ancient Viking Proverb
-The funniest people are the saddest ones. - Ancient Viking Proverb
-Forget injuries, never forget kindnesses. - Ancient Viking Proverb
-Silence is a true friend who never betrays. - Ancient Viking Proverb
-Education is no substitute for intelligence. - Ancient Viking Proverb
-When anger rises, think of the consequences. - Ancient Viking Proverb
-Time flows away like the water in the river.	- Ancient Viking Proverb
-Respect yourself and others will respect you. - Ancient Viking Proverb
-Study the past, if you would divine the future. - Ancient Viking Proverb
-You're a card which will have to be dealt with. - Ancient Viking Proverb
-The population needs deception, so deceive them. - Ancient Viking Proverb
-The man who seeks revenge should dig two graves. - Ancient Viking Proverb
-Into the fires of battle, unto the Anvil of War. - Ancient Viking Proverb
-Follow your heart, but take your brain with you. - Ancient Viking Proverb
-Thought begets heresy; Heresy begets retribution. - Ancient Viking Proverb
-You cannot open a book without learning something. - Ancient Viking Proverb
-Only the wisest and stupidest of men never change. - Ancient Viking Proverb
-Better a diamond with a flaw than a pebble without. - Ancient Viking Proverb
-Good things come to those who go out and earn them. - Ancient Viking Proverb
-Seek Honour as you act, and you shall know no fear. - Ancient Viking Proverb
-The storm rises only so the thunderbolt may strike. - Ancient Viking Proverb
-And remember, no matter where you go, there you are. - Ancient Viking Proverb
-Hold faithfulness and sincerity as first principles. - Ancient Viking Proverb
-The rewards of tolerance are treachery and betrayal. - Ancient Viking Proverb
-A lion does not lose sleep over the opinion of sheep. - Ancient Viking Proverb
-Refusing to decide, is the worst decision you can make. - Ancient Viking Proverb
-Strong people don't put others down, they lift them up. - Ancient Viking Proverb
-The difference between heresy and treachery is ignorance. - Ancient Viking Proverb
-Real knowledge is to know the extent of one’s ignorance. - Ancient Viking Proverb
-Before you embark on a journey of revenge, dig two graves. - Ancient Viking Proverb
-To see what is right and not do it is the worst cowardice. - Ancient Viking Proverb
-Do not underestimate the power of impression over reality. - Ancient Viking Proverb
-It is a great thing to take any step that leads us onwards. - Ancient Viking Proverb
-There is no such thing as innocence, only degrees of guilt. - Ancient Viking Proverb
-What you do not want done to yourself, do not do to others. - Ancient Viking Proverb
-Do something today that your future self will thank you for. - Ancient Viking Proverb
-To be wealthy and honored in an unjust society is a disgrace. - Ancient Viking Proverb
-There's no secret to balance. You just have to feel the waves. - Ancient Viking Proverb
-The eye that looks ahead to the safe course is closed forever. - Ancient Viking Proverb
-Life is really simple, but we insist on making it complicated. - Ancient Viking Proverb
-The beginning of wisdom is to call things by their proper name. - Ancient Viking Proverb
-It does not matter how slowly you go as long as you do not stop. - Ancient Viking Proverb
-I hear and I forget. I see and I remember. I do and I understand. - Ancient Viking Proverb
-Without knowing the force of words, it is impossible to know more. - Ancient Viking Proverb
-The man who moves a mountain begins by carrying away small stones. - Ancient Viking Proverb
-He who knows all the answers has not been asked all the questions. - Ancient Viking Proverb
-You cannot save money. you can either risk it, use it, or lose it. - Ancient Viking Proverb
-That which is unknown and unseen always commands the greatest fear. - Ancient Viking Proverb
-The only time you run out of chances, is when you stop taking them. - Ancient Viking Proverb
-Victory is simply the accumulation of countless unimportant events. - Ancient Viking Proverb
-If people are trying to bring you down, it means you are above them. - Ancient Viking Proverb
-On the journey of finding the right balance, you will find yourself. - Ancient Viking Proverb
-Doubt is the open gate through which slips the most fatal of enemies. - Ancient Viking Proverb
-Religion is an advertising campaign for a product that doesn't exist. - Ancient Viking Proverb
-Consideration for others is the basis of a good life, a good society. - Ancient Viking Proverb
-Never contract friendship with a man that is not better than thyself. - Ancient Viking Proverb
-An open mind is like a fortress with its gates unbarred and unguarded. - Ancient Viking Proverb
-If you make a mistake and do not correct it, this is called a mistake. - Ancient Viking Proverb
-Music produces a kind of pleasure which human nature cannot do without. - Ancient Viking Proverb
-To know what you know and what you do not know, that is true knowledge. - Ancient Viking Proverb
-Education breeds confidence. Confidence breeds hope. Hope breeds peace. - Ancient Viking Proverb
-It is more shameful to distrust our friends than to be deceived by them. - Ancient Viking Proverb
-The difference between who you are and who you want to be, is what you do. - Ancient Viking Proverb
-The superior man thinks always of virtue; the common man thinks of comfort. - Ancient Viking Proverb
-You never know how strong you are until strong is the only choice you have. - Ancient Viking Proverb
-The problem is not the problem, the problem is your attitude to the problem. - Ancient Viking Proverb
-Our greatest glory is not in never falling, but in rising every time we fall. - Ancient Viking Proverb
-The gem cannot be polished without friction, nor man perfected without trials. - Ancient Viking Proverb
-If what one has to say is not better than silence, then one should keep silent. - Ancient Viking Proverb
-We are what we repeatedly do. Excellence, therefore, is not an act, but a habit. - Ancient Viking Proverb
-What the superior man seeks is in himself; what the small man seeks is in others. - Ancient Viking Proverb
-Science is made up of so many things that appear obvious after they are explained. - Ancient Viking Proverb
-Do not be trapped by the need to achieve anything. This way, you achieve everything. - Ancient Viking Proverb
-The risk of confinement to a single planet, outweighs the cost of interstellar travel. - Ancient Viking Proverb
-Our doubts are traitors, and make us lose the good we might win, by fearing the attempt - Ancient Viking Proverb
-Don’t complain about the snow on your neighbor’s roof when your own doorstep is unclean. - Ancient Viking Proverb
-You are scrupulously honest, frank, and straightforward.  Therefore you have few friends. - Ancient Viking Proverb
-Attack the evil that is within yourself, rather than attacking the evil that is in others. - Ancient Viking Proverb
-If you're not pushing the envelope and trying new things, you really aren't trying that hard. - Ancient Viking Proverb
-The hardest thing of all is to find a black cat in a dark room, especially if there is no cat. - Ancient Viking Proverb
-The supreme art of war, is to subdue your enemy by having him fight his allies instead of you. - Ancient Viking Proverb
-He who learns but does not think, is lost! He who thinks but does not learn is in great danger. - Ancient Viking Proverb
-The more man meditates upon good thoughts, the better will be his world and the world at large. - Ancient Viking Proverb
-The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. - Ancient Viking Proverb
-Good intentions can bring about as much destruction as evil. Either way, the result is the same. - Ancient Viking Proverb
-Try looking into that place where you dare not look! You'll find yourself there, staring out at you. - Ancient Viking Proverb
-Success depends upon previous preparation, and without such preparation there is sure to be failure. - Ancient Viking Proverb
-I will not be concerned at other men’s not knowing me; I will be concerned at my own want of ability. - Ancient Viking Proverb
-When it is obvious that the goals cannot be reached, don’t adjust the goals, adjust the action steps. - Ancient Viking Proverb
-No one is ever completely forced into his position in life. We all have opportunities to take different paths. - Ancient Viking Proverb
-The man of wisdom is never of two minds; the man of benevolence never worries; the man of courage is never afraid. - Ancient Viking Proverb
-You must remember, the most important rule of any successful illusion: First, the people must want to believe in it. - Ancient Viking Proverb
-Discovery is dangerous... But so is life. A man unwilling to take risk is doomed never to learn, never to grow, never to live. - Ancient Viking Proverb
-When you see a good person, think of becoming like her/him. When you see someone not so good, reflect on your own weak points. - Ancient Viking Proverb
-If some years were added to my life, I would give fifty to the study of the Yi, and then I might come to be without great faults. - Ancient Viking Proverb
-If you think in terms of a year, plant a seed; if in terms of ten years, plant trees; if in terms of 100 years, teach the people. - Ancient Viking Proverb
-It is not the failure of others to appreciate your abilities that should trouble you, but rather your failure to appreciate theirs. - Ancient Viking Proverb
-In a country well governed, poverty is something to be ashamed of. In a country badly governed, wealth is something to be ashamed of. - Ancient Viking Proverb
-The superior man is distressed by the limitations of his ability; he is not distressed by the fact that men do not recognize the ability that he has. - Ancient Viking Proverb
-To practice five things under all circumstances constitutes perfect virtue; these five are gravity, generosity of soul, sincerity, earnestness, and kindness. - Ancient Viking Proverb
-It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve; and bad things are very easy to get. - Ancient Viking Proverb
-A reader lives a thousand lives before he dies. The man who never reads lives only one. GRRM
 Do nothing which is of no use. - Miyamoto Musashi
 Do not regret what you have done. - Miyamoto Musashi
 You can only fight the way you practice. - Miyamoto Musashi
@@ -523,9 +574,12 @@ In fighting and in everyday life you should be determined through calm. Meet the
 Ignorantia non excusat
 Beware the barrenness of a busy life. - Socrates
 I pray Thee, O God, that I may be beautiful within. - Socrates
-What a lot of things there are a man con do without. - Socrates
+What a lot of things there are a man can do without. - Socrates
 Youth is easily deceived because it is quick to hope. - Aristotle
+
 We are what we repeatedly do. Excellence, therefore, is not an act, but a habit. - Aristotle
+It is the mark of an educated mind to be able to entertain a thought without accepting it. - Aristotle
+In a rich man's house there is no place to spit but his face. - Diogenes of Sinope
 When one with honeyed words but evil mind Persuades the mob, great woes befall the state. - Euripides
 No man who is not willing to help himself, has any right to apply to his friends, or to the gods. - Demothenes
 Baths, drink and sex corrupt our bodies, but baths, drink and sex make life worth living - Graffiti in Roman Bath
@@ -567,11 +621,7 @@ Jews, Syrians, Egyptians and Romans. They don"t dispute that what is holy should
 If your body was turned over to just anyone, you would doubtless take exception. Why aren"t you ashamed that you have made your mind vulnerable to anyone who happens to criticize you, so that it automatically becomes confused and upset? - Epictetus
 When somebody's wife or child dies, to a man we all routinely say, "Well, that's part of life." But if one of our own family is involved, then right away it's "Poor, poor me!" We would do better to remember how we react when a similar loss afflicts others. - Epictetus
 If a man objects to truths that are all too evident, it is no easy task finding arguments that will change his mind. This is proof neither of his own strength nor of his teacher's weakness. When someone caught in an argument hardens to stone, there is just no more reasoning with them. - Epictetus
-Our lives begin to end the day we become silent about things that matter. - Martin Luther King
-The penalty good men pay for indifference to public affairs is to be ruled by evil men. - Plato
-Nullius in verba - Motto of The Royal Society
-On the word of no one - Motto of The Royal Society
-If you see something, say nothing; drink to forget!
+Hope clouds observation. - Frank Herbert
 Survival is the ability to swim in strange water. - Frank Herbert
 Face your fears or they will climb over your back. - Frank Herbert
 Power attracts the corruptible. Suspect any who seek it. - Frank Herbert
@@ -580,6 +630,7 @@ Seek freedom and become captive of your desires. Seek discipline and find your l
 Do actions agree with words? There’s your measure of reliability. Never confine yourself to the words. - Frank Herbert
 Show me a completely smooth operation and I’ll show you someone who’s covering mistakes. Real boats rock. - Frank Herbert
 It is so shocking to find out how many people do not believe that they can learn, and how many more believe learning to be difficult. - Frabk Herbert
+Once men turned their thinking over to machines in the hope that this would set them free. but that only permitted other men with machines to enslave them. - Frank Herbert
 Empires do not suffer emptiness of purpose at the time of their creation. It is when they have become established that aims are lost and replaced by vague ritual. - Frank Herbert
 The child who refuses to travel in the father’s harness, this is the symbol of man’s most unique capability. "I do not have to be what my father was. I do not have to obey my father’s rules or even believe everything he believed. It is my strength as a human that I can make my own choices of what to believe and what not to believe, of what to be and what not to be. - Frank Herbert
 Wheresoever you go, go with all your heart. - Confucius
@@ -633,9 +684,9 @@ The worst enemy women have is in the pulpit. - Susan B. Anthony (Suffragist) (18
 Religions are all alike - founded upon fables and mythologies. Thomas Jefferson (1743 - 1826)
 Religion is an advertising campaign for a product that doesn't exist. - Ancient Viking Proverb
 Drawing a cartoon is not an act of aggression. Trying to kill somebody with an axe is. - Johann Hari
-The idea of a personal God is quite alien to me and seems even naive. - Albert Einstein (1879 - 1955)
 The Christian resolution to find the world ugly and bad has made the world ugly and bad. - Friedrich Nietzsche
 The philosopher has never killed any priests, whereas the priest has killed a great many philosophers. - Denis Diderot
+Rational arguments don't usually work on religious people. Otherwise there wouldn't be religious people. - Gregory House
 Religion is regarded by the common people as true, by the wise as false, and by rulers as useful. - Lucius Annaeus Seneca
 Religion is like a blind man looking in a black room for a black cat that isn't there, and finding it. - Ancient Viking Proverb
 The word 'heretic' comes from the Greek word 'hairetikos' meaning 'able to choose' which pretty much says it all. - Pat Condell
@@ -644,7 +695,7 @@ The argument is not atheism versus creationism. It is logic and reason versus su
 It's fine to be a religion man. But if you get too much of the religion, you get out of your mind and do stupid things. - Murat Duka
 When enough people share a delusion, it loses its status as a psychosis and gets a religious tax exemption instead. - Ronald de Sousa
 Books have always been fearful things to priesthoods. Things to police and secure. Dangerous, with radical new ideas. - Magnus The Red
-For me, the Jewish religion like all other religions is an incarnation of the most childish superstitions. - Albert Einstein 1879 - 1955
+My best advice to anyone who wants to raise a happy mentally healthy child is: Keep him or her as far away from a church as you can. - Frank Zappa
 No wickedness comes anywhere near the wickedness of a woman... Sin began with a woman and thanks to her we all must die. - Ecclesiasticus 25:19,24
 Just in terms of allocation of time resources, religion is not very efficient. There's a lot more I could be doing on a Sunday morning. - Bill Gates
 There is not enough love and goodness in the world for us to be permitted to give any of it away to imaginary things. - Friedrich Nietzsche 1844-1900
@@ -662,12 +713,9 @@ The church says the earth is flat, but I know that it is round, for I have seen 
 I don't think there's any difference between the pope wearing a large hat and parading around with a smoking purse, and an African painting his face white and praying to a rock. - Howard Stern
 I prefer rationalism to atheism. The question of God and other objects-of-faith are outside reason and play no part in rationalism, thus you don't have to waste your time in either attacking or defending. - Isaac Asimov (1920 - 1992)
 Fix reason firmly in her seat, and call to her tribunal every fact, every opinion. Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason, than that of blindfolded fear. - Thomas Jefferson
-The contemplation of this world beckoned as a liberation. The road to this paradise was not as comfortable and alluring as the road to the religious paradise; but it has shown itself reliable, and I have never regretted having chosen it. - Albert Einstein (1879 - 1955)
 It is individuals who have human rights, not religions or beliefs. To give the latter legal protection would severely curb the individual's right to freedom of expression - as already happens in some Muslim countries, where people of other faiths need to tread very carefully. - Ian Harris
 Shepherds don't look after sheep because they love them - although I do think some shepherds like their sheep too much. They look after their sheep so they can, first, fleece them and second, turn them into meat. That's much more like the priesthood as I know it. - Christopher Hitchens (1949 - 2011)
 I can't say that it's the Koran that causes a husband to beat his wife, but when I was a translator in Holland and we condemned some men for beating their wives, they would pull out the Koran and say, 'Look here, Chapter 4, Verse 34, gives me a reason, and in fact even obligates me, to beat my wife if she's disobedient.' - Ayaan Hirsi Ali
-I cannot imagine a God who rewards and punishes the objects of his creation, whose purposes are modelled after our own - a God, in short, who is but a reflection of human frailty. Neither can I believe that the individual survives the death of his body, although feeble souls harbour such thoughts through fear or ridiculous egotism. - Albert Einstein (1879 - 1955)
-It was, of course, a lie what you read about my religious convictions, a lie which is being systematically repeated. I do not believe in a personal God and I have never denied this but have expressed it clearly. If something is in me which can be called religious then it is the unbounded admiration for the structure of the world so far as our science can reveal it. - Albert Einstein (1879 - 1955)
 By all means let an observant Jewish adult male have his raw-cut penis placed in the mouth of a rabbi. By all means let grown women who distrust their clitoris or their labia have them sawn away by some other wretched adult female. But the conscription of the unprotected child for these purposes is something that even the most dedicated secularist can safely describe as a sin. - Christopher Hitchens
 Knowledge is a Continuum. - Magnus The Red.
 Blood cannot be soaked up by bread. - Kolo, Imperial Fists
