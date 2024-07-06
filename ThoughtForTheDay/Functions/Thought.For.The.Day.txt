@@ -40,6 +40,7 @@ Long is and indirect the way to a bad friend's, though by the road he dwell; but
 Early should rise he who has few workers, and go his work to see to; greatly is he retarded who sleeps the morn away. Wealth half depends on energy. - Viking saying
 One's own house is best, small though it be, at home is every one his own master. Bleeding at heart is he, who has to ask for food at every meal-tide. - Viking saying
 A foolish man, who among people comes, had best be silent; for no one knows that he knows nothing, unless he talks too much. He who previously knew nothing will still know nothing talk he ever so much. - Viking saying
+Weakness is a choice. - Ancient Viking Proverb 
 Ignorance is a virtue. - Ancient Viking Proverb
 Ignorance is no excuse. - Ancient Viking Proverb
 Loyalty is its own reward. - Ancient Viking Proverb
@@ -50,6 +51,7 @@ Be strong in your ignorance. - Ancient Viking Proverb
 Pride is the Warrior's Curse. - Ancient Viking Proverb
 An empty mind is a loyal mind. - Ancient Viking Proverb
 Tolerance is a sign of weakness. - Ancient Viking Proverb
+Wise words never left a dry throat. Ancient Viking Proverb
 A liar is always lavish of oaths. - Ancient Viking Proverb
 Knowledge is power, hide it well. - Ancient Viking Proverb
 Intent alone, bears moral weight. - Ancient Viking Proverb
@@ -83,6 +85,7 @@ When anger rises, think of the consequences. - Ancient Viking Proverb
 Knowledge is too great a burden for the weak. - Ancient Viking Proverb
 Respect yourself and others will respect you. - Ancient Viking Proverb
 Don't let perfect be the enemy of good enough. - Ancient Viking Proverb
+Your honour is your life, let none dispute it. - Ancient Viking Proverb
 Time flows away like the water in the river.	- Ancient Viking Proverb
 Study the past, if you would divine the future. - Ancient Viking Proverb
 You're a card which will have to be dealt with. - Ancient Viking Proverb
@@ -98,6 +101,7 @@ Who is wealthy? He who is happy with what he has. - Ancient Viking Proverb
 Thought begets heresy; Heresy begets retribution. - Ancient Viking Proverb
 You cannot open a book without learning something. - Ancient Viking Proverb
 Only the wisest and stupidest of men never change. - Ancient Viking Proverb
+A mind without purpose will wander in dark places. - Ancient Viking Proverb
 Better a diamond with a flaw than a pebble without. - Ancient Viking Proverb
 Good things come to those who go out and earn them. - Ancient Viking Proverb
 Seek Honour as you act, and you shall know no fear. - Ancient Viking Proverb
@@ -119,6 +123,7 @@ Courage is like a muscle, it is strengthened with use. - Ancient Viking Proverb
 Only the awkward question; only the foolish ask twice. - Ancient Viking Proverb
 Refusing to decide, is the worst decision you can make. - Ancient Viking Proverb
 Strong people don't put others down, they lift them up. - Ancient Viking Proverb
+If you expect gratitude, you'll seldom be disappointed. - Ancient Viking Proverb
 Real knowledge is to know the extent of one’s ignorance. - Ancient Viking Proverb
 Embrace death without regret. Embrace life without fear. - Ancient Viking Proverb
 We can shape our destiny, but we cannot escape our fate. - Ancient Viking Proverb
@@ -167,6 +172,7 @@ Alone, a warrior cannot truly finish a battle; but he can start a war. - Ancient
 Pain is an illusion of the senses, despair is an illusion of the mind. - Ancient Viking Proverb
 If you make a mistake and do not correct it, this is called a mistake. - Ancient Viking Proverb
 Music produces a kind of pleasure which human nature cannot do without. - Ancient Viking Proverb
+A man may die, and yet endure if his work enters into the greater work. - Ancient Viking Proverb
 To know what you know and what you do not know, that is true knowledge. - Ancient Viking Proverb
 Education breeds confidence. Confidence breeds hope. Hope breeds peace. - Ancient Viking Proverb
 It is more shameful to distrust our friends than to be deceived by them. - Ancient Viking Proverb
@@ -179,6 +185,7 @@ The difference between who you are and who you want to be, is what you do. - Anc
 The superior man thinks always of virtue; the common man thinks of comfort. - Ancient Viking Proverb
 You never know how strong you are until strong is the only choice you have. - Ancient Viking Proverb
 Big jobs usually go to those who prove their ability to outgrow small ones. - Ancient Viking Proverb
+Staying neutral while a fire is raging is standing with the ones who lit it. - Ancient Viking Proverb
 From small acorns of incorrectness mighty oaks of misunderstanding may grow. - Ancient Viking Proverb
 The best time to plant a tree was 20 years ago. The second best time is now. - Ancient Viking Proverb
 The problem is not the problem, the problem is your attitude to the problem. - Ancient Viking Proverb
@@ -215,6 +222,7 @@ The man who asks a question is a fool for a minute, the man who does not ask is 
 Good intentions can bring about as much destruction as evil. Either way, the result is the same. - Ancient Viking Proverb
 It's completely intuitive; it just takes a few days to learn, but then it's completely intuitive. - Ancient Viking Proverb
 No battle was ever won that was poorly planned. No plan ever succeeded that was poorly conceived. - Ancient Viking Proverb
+Liberals will always side with fascists over socialists, because fascism doesn't threaten capital. - Ancient Viking Proverb
 Try looking into that place where you dare not look! You'll find yourself there, staring out at you. - Ancient Viking Proverb
 Success depends upon previous preparation, and without such preparation there is sure to be failure. - Ancient Viking Proverb
 I will not be concerned at other men’s not knowing me; I will be concerned at my own want of ability. - Ancient Viking Proverb
@@ -231,6 +239,7 @@ You can close your eyes to the things you don't want to see, but you cannot clos
 A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it. - Ancient Viking Proverb
 It is not the failure of others to appreciate your abilities that should trouble you, but rather your failure to appreciate theirs. - Ancient Viking Proverb
 In a country well governed, poverty is something to be ashamed of. In a country badly governed, wealth is something to be ashamed of. - Ancient Viking Proverb
+The mine owners do not find the gold, they do not mine the gold, they do not mill the gold, but by some weird alchemy all the gold belongs to them. - Ancient Viking Proverb
 The superior man is distressed by the limitations of his ability; he is not distressed by the fact that men do not recognize the ability that he has. - Ancient Viking Proverb
 To practice five things under all circumstances constitutes perfect virtue; these five are gravity, generosity of soul, sincerity, earnestness, and kindness. - Ancient Viking Proverb
 The pursuit of knowledge rivals the pursuit of beauty in its arrogance; both quests are borne of hubris, yet of the two the sin of curiosity cuts deeper and leaves the greater wound. - Ancient Viking Proverb
@@ -282,8 +291,11 @@ The supreme art of war, is to subdue your enemy by having him fight his allies i
 To think is easy. To act is difficult. To act as one thinks is the most difficult. - Johann Wolfgang Von Goethe
 I propose to raise a revolution against the lie that the majority has the monopoly of the truth. - Henrik Ibsen
 Politicians should wear sponsor jackets like NASCAR drivers, then we would know who owns them. - Robbie Williams
+I would rather have questions that cannot be answered, than answers that cannot be questioned. - Richard Feynman
+The purpose of propagande is to make one set of people forget that other sets of people are human. - Aldous huxley
 Because a body of men, holding themselves accountable to nobody, ought not to be trusted by anybody. - Thomas Paine
 If you have chosen neutrality in situations of injustice, you have chosen the side of the oppressor. - Desmond Tutu
+Do not lose your temper when arguing, for anger weakens your arguments and strengthens your opponent. Ibn Al-Muqaffa
 People demand freedom of speech as a compensation for the freedom of thought which they seldom use. - Søren Kierkegård
 To myself I am only a child playing on the beach, while vast oceans of truth lie undiscovered before me. - Isaac Newton
 Book and all forms of writing have always been objects of terror to those who seek to supporess the truth. - Wole Soyinka
@@ -295,14 +307,17 @@ It is undesirable to believe a proposition when there is no ground whatsoever fo
 Football, beer, and above all, gambling filled up the horizon of their minds. To keep them in control was not difficult. - George Orwell, 1984
 The less talent the have, the more pride, vanity and arrogance they have. All these fools, however, find other fools who applaud them. - Erasmus
 There are two kinds of people who never amount to much: Those who cannot do what they are told, and those who can do nothing else. - Cyrus Kotzschmar
+If you are willing to abandon your principles for convenience or social acceptability, they are not principles. They are your costume. - Nitya Prakash
 Politically, the weakness of the argument has alwys been that those who choose the lesser evil forget very quickly that they chose evil. - Hannah Arendt
+If you are not careful, the newspapers will have you hating the people who are oppressed, and loving the people who are doing the oppressing. - Malcolm X
 Talking union is the best kind of talking you can do; Union in your house. Union in your street. Union in your town. Union around the workd. - Woody Guthrie
 Nobody in the world, nobody in history, has ever gotten their freedom by appealing to the moral sense of the people who were oppressing them. - Assata Shakur
 Capitalism is the extraordinary belief that the nastiest of men for the nastiest of motives will somehow work together for the benefit of all. John Maynard Keynes
 I prefer to be true to myself, even at athe hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence. - Frederick Douglas
 A stuppid man's report of what a clever man says is never accurate, because he unconsciously translates what he hears into something that he can understand. - Bertrand Russel
-Communism deprives no man of the power to appropriate the products of society; all that it does is to deprive him of the power to subjugate the labour of others by means of such appropriation. - Karl Marx
+Accumulation of wealth at one pole is at the same time accumulation of misery, agony of toil, slavery, ignorance, brutality, mental degradation, at the opposite pole. - Karl Marx (1818-1883)
 The West won the worls not by superiority of its ideas or religion... but rather by its superiority in applying organized violence. Westerners often forget that fact; non-Westerners never do. - Samuel P. Huntington
+Communism deprives no man of the power to appropriate the products of society; all that it does is to deprive him of the power to subjugate the labour of others by means of such appropriation. - Karl Marx (1818-1883)
 I sit on a man's back choking him and making him carry me, and yet I assure myself and others that I am sorry for him and wish to lighten his load by all means possible... Except by getting off his back. - Leo Tolstoy
 The problem isn't a lack of money, food, water or land. The problem is that you've given over control of these things to a group of greedy psychopaths who care more about maintaining their own power than helping mankind. - Bill Hicks
 The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency. - Bill Gates
@@ -410,6 +425,7 @@ Receive wealth or prosperity without arrogance; and be ready to let it go. - Mar
 It is not death that a man should fear, but he should fear never beginning to live. - Marcus Aurelius
 No longer talk at all about the kind of man that a good man ought to be, but be such. - Marcus Aurelius
 You will give yourself relief, if you do every act of your life as if it were the last. - Marcus Aurelius
+The opinion of 10000 men is of no value if none of them knows anything about the subject. - Marcus Aurelius
 Your life is short. You must turn to profit the present by the aid of reason and justice. - Marcus Aurelius
 A man must learn a great deal to enable him to pass a correct judgment on another man's acts. - Marcus Aurelius
 You have power over your mind, not outside events. Realise this, and you will find your strength. - Marcus Aurelius
@@ -576,9 +592,10 @@ Beware the barrenness of a busy life. - Socrates
 I pray Thee, O God, that I may be beautiful within. - Socrates
 What a lot of things there are a man can do without. - Socrates
 Youth is easily deceived because it is quick to hope. - Aristotle
-
+No great genius has ever existed without some touch of madness. - Aristotle
 We are what we repeatedly do. Excellence, therefore, is not an act, but a habit. - Aristotle
 It is the mark of an educated mind to be able to entertain a thought without accepting it. - Aristotle
+It is also in the interest of the tyrant to make his subjects poor... The people are so occupied with their daily tasks that they have no time for plotting. - Aristotle
 In a rich man's house there is no place to spit but his face. - Diogenes of Sinope
 When one with honeyed words but evil mind Persuades the mob, great woes befall the state. - Euripides
 No man who is not willing to help himself, has any right to apply to his friends, or to the gods. - Demothenes
@@ -705,7 +722,7 @@ Superstition and ignorance always attract the religiously inclined. For the core
 Religion ends and philosophy begins, just as alchemy ends and chemistry begins and astrology ends, and astronomy begins. - Christopher Hitchens (1949 - 2011)
 Human beings will find a balanced situation when they do good things not because God says it, but because they feel like doing them. - Olof Palme (1927 - 1986)
 The real problem is not that those who stop believing in God will believe in anything, but that those who have faith in God can justify doing anything. - Simon Morris
-Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people. - Karl Marx 1818-1883
+Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people. - Karl Marx (1818-1883)
 We have evidence that a Flying Spaghetti Monster created the universe. None of us, of course, were around to see it, but we have written accounts of it. -Bobby Henderson 
 Question with boldness even the existence of God; because, if there be one, he must more approve of the homage of reason than that of blindfolded fear." - Thomas Jefferson
 I distrust those people who know so well what God wants them to do because I notice it always coincides with their own desires. - Susan B. Anthony (suffragist) 1820 - 1906
