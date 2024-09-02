@@ -1,4 +1,17 @@
 Function Get-ThoughtFortheDayVoice {
+    <#
+		.SYNOPSIS
+			Describe the function here
+
+		.DESCRIPTION
+			Describe the function in more detail
+
+		.EXAMPLE
+			Give an example of how to use it
+
+	#>
+	[CmdletBinding()]
+
     param(
         [string]$open = "It is now time for a thought for the day....",
         [int]$rate = 1
