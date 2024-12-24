@@ -1,5 +1,4 @@
-﻿When we are tired, we are attacked by ideas we conquered long ago.- Nietzsche
-Never argue with someone whose TV is bigger than their bookshelf. - Emilia Clarke
+﻿Never argue with someone whose TV is bigger than their bookshelf. - Emilia Clarke
 If you don't know, ask. You will be a fool for the moment, but a wise man for the rest of your life. - Seneca
 The problem is people are being hated when they are real, and are being loved thwne they are fake. - Bob Marley
 Above all, do not lie to yourself. - Fyodor Dostoyevsky
@@ -70,7 +69,7 @@ Long is and indirect the way to a bad friend's, though by the road he dwell; but
 Early should rise he who has few workers, and go his work to see to; greatly is he retarded who sleeps the morn away. Wealth half depends on energy. - Viking saying
 One's own house is best, small though it be, at home is every one his own master. Bleeding at heart is he, who has to ask for food at every meal-tide. - Viking saying
 A foolish man, who among people comes, had best be silent; for no one knows that he knows nothing, unless he talks too much. He who previously knew nothing will still know nothing talk he ever so much. - Viking saying
-Weakness is a choice. - Ancient Viking Proverb 
+Weakness is a choice. - Ancient Viking Proverb
 Ignorance is a virtue. - Ancient Viking Proverb
 Ignorance is no excuse. - Ancient Viking Proverb
 Loyalty is its own reward. - Ancient Viking Proverb
@@ -180,6 +179,7 @@ What we learn from others must chime with something within us. - Ancient Viking 
 Any road followed precisely to its end leads precisely nowhere. - Ancient Viking Proverb
 The beginning of wisdom is to call things by their proper name. - Ancient Viking Proverb
 It does not matter how slowly you go as long as you do not stop. - Ancient Viking Proverb
+Follow up a victory by striking quickly, and you will win another - Ancient Viking Proverb
 I hear and I forget. I see and I remember. I do and I understand. - Ancient Viking Proverb
 War is the rich man's terrorism. Terrorism is the poor man's war. -  Ancient Viking Proverb
 Without knowing the force of words, it is impossible to know more. - Ancient Viking Proverb
@@ -261,6 +261,7 @@ When it is obvious that the goals cannot be reached, don’t adjust the goals, a
 Everyone you meet is fighting a battle you don't know about. Attack them. Now they're fighting two battles. - Ancient Viking Proverb
 No one is ever completely forced into his position in life. We all have opportunities to take different paths. - Ancient Viking Proverb
 The man of wisdom is never of two minds; the man of benevolence never worries; the man of courage is never afraid. - Ancient Viking Proverb
+Everyone loves an honest person until the honest person strikes a chord with a truth they weren't ready to receive. - Ancient Viking Proverb
 You must remember, the most important rule of any successful illusion: First, the people must want to believe in it. - Ancient Viking Proverb
 Discovery is dangerous... But so is life. A man unwilling to take risk is doomed never to learn, never to grow, never to live. - Ancient Viking Proverb
 When you see a good person, think of becoming like her/him. When you see someone not so good, reflect on your own weak points. - Ancient Viking Proverb
@@ -514,7 +515,7 @@ Do not waste the remainder of your life in thoughts about others ... for you los
 A man when he has done a good act, does not call out for others to come and see, but he goes on to another act, as a vine goes on to produce again the grapes in season. - Marcus Aurelius
 Failure to observe what is in the mind of another has seldom made a man unhappy; but those who do not observe the movements of their own minds must of necessity be unhappy. - Marcus Aurelius
 I have often wondered how t is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others. - Marcus Aurelius
-Judge every word and deed that are naturally fit for you, and do not be diverted by words of blame or criticism; if it is good to do or say something, do not consider it unworthy of yourself. - Marcus Aurelius 
+Judge every word and deed that are naturally fit for you, and do not be diverted by words of blame or criticism; if it is good to do or say something, do not consider it unworthy of yourself. - Marcus Aurelius
 "I am unhappy, because this has happened to me." Not so: say, "I am happy, though this has happened to me, because I continue free from pain, neither crushed by the present nor fearing the future." - Marcus Aurelius
 Altogether the interval is small between birth and death; and consider with how much trouble, and in company with what sort of people and in what a feeble body, this interval is laboriously passed. - Marcus Aurelius
 When you have done a good act and another has received it, why do you look for a third thing besides these, as fools do, either to have the reputation of having done a good act or to obtain a return? - Marcus Aurelius
@@ -523,7 +524,7 @@ Such as are your habitual thoughts, such also will be the character of your mind
 If you shall be afraid not because you must some time cease to live, but if you shall fear never to have begun to live according to nature—then you will be a man worthy of the universe that has produced you, and you will cease to be a stranger in your native land. - Marcus Aurelius
 Begin the morning by saying to yourself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil. I can neither be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him. - Marcus Aurelius
 To be rather than to seem. - Cicero
-A friend is a second self. - Cicero 
+A friend is a second self. - Cicero
 Silent enim leges inter arma. - Cicero
 While there's life, there's hope. - Cicero
 Ability without honor is useless. - Cicero
@@ -649,6 +650,7 @@ Ignorantia non excusat
 Beware the barrenness of a busy life. - Socrates
 I pray Thee, O God, that I may be beautiful within. - Socrates
 What a lot of things there are a man can do without. - Socrates
+One person likes tending to his farm, another to his horse; I like to daily monitor my self-improvement. - Socrates
 Youth is easily deceived because it is quick to hope. - Aristotle
 No great genius has ever existed without some touch of madness. - Aristotle
 We are what we repeatedly do. Excellence, therefore, is not an act, but a habit. - Aristotle
@@ -656,9 +658,9 @@ It is the mark of an educated mind to be able to entertain a thought without acc
 It is also in the interest of the tyrant to make his subjects poor... The people are so occupied with their daily tasks that they have no time for plotting. - Aristotle
 In a rich man's house there is no place to spit but his face. - Diogenes of Sinope
 When one with honeyed words but evil mind Persuades the mob, great woes befall the state. - Euripides
+Close alliances with despots are never safe for free states. - Demothenes
 No man who is not willing to help himself, has any right to apply to his friends, or to the gods. - Demothenes
 Baths, drink and sex corrupt our bodies, but baths, drink and sex make life worth living - Graffiti in Roman Bath
-One person likes tending to his farm, another to his horse; I like to daily monitor my self-improvement. - Socrates
 Passions stem from frustrated desire. - Epictetus
 What illusion about myself do I entertain? - Epictetus
 Understand what words you use first, then use them. - Epictetus
@@ -749,7 +751,7 @@ Faith is fear dressed up as virtue - Ancient Viking Proverb
 Faith means making a virtue out of not thinking. - Bill Maher
 Never trust people who've only got one book. - Billy Connolly
 To such heights of evil are men driven by religion. - Lucretiusca
-Religion is what keeps the poor from murdering the rich. - Napoleon Bonaparte 
+Religion is what keeps the poor from murdering the rich. - Napoleon Bonaparte
 A book that changed me? The Bible. It turned me into an Atheist. - Andy Hamilton
 Religions are cultural artifacts. We make God, not the other way round. - Iain M. Banks
 A strongly held belief does not automatically deserve respect. - Ancient Viking Proverb
@@ -760,10 +762,11 @@ Chastity - the most unnatural of all the sexual perversions. - Aldous Huxley (18
 The worst enemy women have is in the pulpit. - Susan B. Anthony (Suffragist) (1820 - 1906)
 Religions are all alike - founded upon fables and mythologies. Thomas Jefferson (1743 - 1826)
 Religion is an advertising campaign for a product that doesn't exist. - Ancient Viking Proverb
+When we are tired, we are attacked by ideas we conquered long ago. - Friedrich Nietzsche 1844-1900
 Drawing a cartoon is not an act of aggression. Trying to kill somebody with an axe is. - Johann Hari
-The Christian resolution to find the world ugly and bad has made the world ugly and bad. - Friedrich Nietzsche
 Man will  never be free until the last king is strangled with the entrails of the last priest. - Denis Diderot
 The philosopher has never killed any priests, whereas the priest has killed a great many philosophers. - Denis Diderot
+The Christian resolution to find the world ugly and bad has made the world ugly and bad. - Friedrich Nietzsche 1844-1900
 Rational arguments don't usually work on religious people. Otherwise there wouldn't be religious people. - Gregory House
 Religion is regarded by the common people as true, by the wise as false, and by rulers as useful. - Lucius Annaeus Seneca
 Religion is like a blind man looking in a black room for a black cat that isn't there, and finding it. - Ancient Viking Proverb
@@ -784,7 +787,7 @@ Religion ends and philosophy begins, just as alchemy ends and chemistry begins a
 Human beings will find a balanced situation when they do good things not because God says it, but because they feel like doing them. - Olof Palme (1927 - 1986)
 The real problem is not that those who stop believing in God will believe in anything, but that those who have faith in God can justify doing anything. - Simon Morris
 Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people. - Karl Marx (1818-1883)
-We have evidence that a Flying Spaghetti Monster created the universe. None of us, of course, were around to see it, but we have written accounts of it. -Bobby Henderson 
+We have evidence that a Flying Spaghetti Monster created the universe. None of us, of course, were around to see it, but we have written accounts of it. -Bobby Henderson
 Question with boldness even the existence of God; because, if there be one, he must more approve of the homage of reason than that of blindfolded fear." - Thomas Jefferson
 I distrust those people who know so well what God wants them to do because I notice it always coincides with their own desires. - Susan B. Anthony (suffragist) 1820 - 1906
 The church says the earth is flat, but I know that it is round, for I have seen the shadow on the moon, and I have more faith in a shadow than in the church. - Ferdinand Magellan
@@ -802,6 +805,7 @@ The flesh is weak, but deeds endure. - Vulkan, Primarch of the 18th
 There is nothing to be gained by feeding hungry ghosts. - Commander Puretide
 Ignorance is a shield almost as strong as faith in the throne. - Ciaphais Cain
 Let the motive force castigate the heretek and the experimenter. - Taghmata Dominata
+Follow up a victory by striking quickly, and you will win another - Commander Puretide
 Curiosity is an infection to be quarantined, and dashed against the rocks of duty. - Dark Angels
 Power has no limits. Every morsel of power engenders more hunder; it is never satisfied. - Rogal Dorn
 There is always more to know, more to learn; And every act of learning must come with the knowledge that it is never enough. - Magnus the Red
