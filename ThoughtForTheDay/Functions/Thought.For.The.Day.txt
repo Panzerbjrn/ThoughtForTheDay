@@ -1,33 +1,4 @@
-﻿Never argue with someone whose TV is bigger than their bookshelf. - Emilia Clarke
-If you don't know, ask. You will be a fool for the moment, but a wise man for the rest of your life. - Seneca
-The problem is people are being hated when they are real, and are being loved thwne they are fake. - Bob Marley
-Above all, do not lie to yourself. - Fyodor Dostoyevsky
-When someone is properly grounded in life, they shouldn't have to look outside themsselves for approval. - Epictetus
-It takes two years to learn to speak and sixty years to learn to keep quiet. - Ernest Hemingway
-It is foolish to be convinced without evidence, but it is equally foolish to refuse to be convinced by real evidence. - Upton Sinclair
-Freedom is never given; it is won. - A. Philip Randolph
-Never underestimate the power of stupid people in a large group. - George Carlin
-The worst enemy to creativity is self-doubt. - Sylvia Plath
-Money doesn't change men, it merely unmasks them. - Henry Ford
-People settle for a level of despair they can tolerate and call it happiness. - Søren Kierkegård
-It's frightful that people who are so ignorant should hae so much influence. - George Orwell
-Every word has conseuences. Every silence too. - Jean-Paul Sartre
-I don't like country music but I don't mea to denigrate those who do. And for the pople who like country music, deigrate means 'put down'.  Bob Newhart
-Your worst sin is that you have destroyed and betrayed yourself for nothing. - Fyodor Dostoyevsky
-The general population doesssn't know what's happening, and it doesn't even know that it doesn't know. - Noam Chomsky
-When the power of love overcomes the love of power the world will know peace. - Jimi Hendrix
-Only a fool learns from his own mistakes. The wise man learns from the mistakes of others. - Otto von Bismarck
-A high degree of intellect tends to make a man unsocial. - Arthur Schopenhauer
-Strong minds discuss ideas, average minds discuss events, weak minds discuss people. - Socrates
-Education isn't something you can finish. - Isaac Asimov
-Experience has taught me that the shallowest of communist platitudes contains more of a hierarchy of meaning than a contemporary bourgeois profundity. - Walter Benjamin
-Temper is what gets most of us into trouble. Pride is what keeps us there. - Mark Twain
-Many people die at twenty five and aren't buried until they are seventy five. - Benjamin Franklin
-The thing about smart people is that they seem like crazy people to dumb people. - Stephen Hawking
-The trouble with the world is the stupid people are cocksure and the intelligent people are full of doubt. - Bertrand Russell
-You can't lead the people if you dont love the people. You can't save the people if you don't serve the people. - Cornel West
-The man who has a conscience suffers whilst acknowledging his sin. That is his punishment. - Fyodor Dostoyevsky
-Deceit sleeps with greed. - Viking saying
+﻿Deceit sleeps with greed. - Viking saying
 A cleaved head no longer plots. - Viking saying
 No friend is he who but flatters. - Viking saying
 Generous and brave men live the best. - Viking saying
@@ -71,6 +42,7 @@ One's own house is best, small though it be, at home is every one his own master
 A foolish man, who among people comes, had best be silent; for no one knows that he knows nothing, unless he talks too much. He who previously knew nothing will still know nothing talk he ever so much. - Viking saying
 Weakness is a choice. - Ancient Viking Proverb
 Ignorance is a virtue. - Ancient Viking Proverb
+Ignorantia non excusat. - Ancient Viking Proverb
 Ignorance is no excuse. - Ancient Viking Proverb
 Loyalty is its own reward. - Ancient Viking Proverb
 The fish rots from the head. - Ancient Viking Proverb
@@ -157,6 +129,7 @@ Real knowledge is to know the extent of one’s ignorance. - Ancient Viking Prov
 Embrace death without regret. Embrace life without fear. - Ancient Viking Proverb
 We can shape our destiny, but we cannot escape our fate. - Ancient Viking Proverb
 War is Peace, Freedom is Slavery, Ignorance is Strength. - Ancient Viking Proverb
+It is remarkable how many things you can get to explode. - Ancient Viking Proverb
 The only way to guarantee failure is to never try at all. - Ancient Viking Proverb
 The difference between heresy and treachery is ignorance. - Ancient Viking Proverb
 The only good is knowledge and the only evil is ignorance. - Ancient Viking Proverb
@@ -206,6 +179,7 @@ Music produces a kind of pleasure which human nature cannot do without. - Ancien
 A man may die, and yet endure if his work enters into the greater work. - Ancient Viking Proverb
 To know what you know and what you do not know, that is true knowledge. - Ancient Viking Proverb
 Education breeds confidence. Confidence breeds hope. Hope breeds peace. - Ancient Viking Proverb
+In order for non-violence to work, your opponent must have a conscience. - Ancient Viking Proverb
 It is more shameful to distrust our friends than to be deceived by them. - Ancient Viking Proverb
 A dream without a goal is a wish. A goal without a plan is just a dream. - Ancient Viking Proverb
 Discipline is choosing between what you want now and what you want most. - Ancient Viking Proverb
@@ -221,6 +195,7 @@ From small acorns of incorrectness mighty oaks of misunderstanding may grow. - A
 The best time to plant a tree was 20 years ago. The second best time is now. - Ancient Viking Proverb
 The problem is not the problem, the problem is your attitude to the problem. - Ancient Viking Proverb
 Our greatest glory is not in never falling, but in rising every time we fall. - Ancient Viking Proverb
+You should take the approach that you're wrong. Your goal is to be less wrong. -Ancient Viking Proverb
 The gem cannot be polished without friction, nor man perfected without trials. - Ancient Viking Proverb
 Even if you are on the right track, you'll get run over if you just sit there. - Ancient Viking Proverb
 I'd rather be a failure at something I love than a success at something I hate. - Ancient Viking Proverb
@@ -281,78 +256,112 @@ The right oppresses, the left liberates. - Spanish saying
 The rich would have to eat money if the poor did not provide food. - Russian proverb
 If you want to go fast, go alone, If you want to go far, go together. - African proverb
 When a clown moves into a palace, he does not becoma a king; the palace becomes a circus. - Turkish proverb
+Above all, do not lie to yourself. - Fyodor Dostoyevsky
+Your worst sin is that you have destroyed and betrayed yourself for nothing. - Fyodor Dostoyevsky
+The man who has a conscience suffers whilst acknowledging his sin. That is his punishment. - Fyodor Dostoyevsky
+Mistakes are proof that you are trying. - Ernest Hemingway
+I drink to make other people interesting. - Ernest Hemingway
+It takes two years to learn to speak and sixty years to learn to keep quiet. - Ernest Hemingway
+It's frightful that people who are so ignorant should hae so much influence. - George Orwell
+The most effective way to destroy people, is to deny and obliterate their own understanding of their history. - George Orwell
+Football, beer, and above all, gambling filled up the horizon of their minds. To keep them in control was not difficult. - George Orwell, 1984
+Education isn't something you can finish. - Isaac Asimov (1920 - 1992)
+The saddest aspect of life right now is that sciemce gatherss knowledge faster than society gathers wisdom. - Isaac Asimov (1920 - 1992)
+I prefer rationalism to atheism. The question of God and other objects-of-faith are outside reason and play no part in rationalism, thus you don't have to waste your time in either attacking or defending. - Isaac Asimov (1920 - 1992)
+A high degree of intellect tends to make a man unsocial. - Arthur Schopenhauer
+If you want to reach a large audience, appeal to idiots. - Arthur Schopenhauer
+Talent hits a target no one else can hit. Genius hits a target no one else can see. - Arthur Schopenhauer
 Nullius in verba - Motto of The Royal Society
 One day or day one. You decide. - Paolo Coelho
 On the word of no one - Motto of The Royal Society
 Opportunities multiply as they are seized. - Sun Tzu
 The boldest measures are the safest. - Horatio Nelson
+Freedom is never given; it is won. - A. Philip Randolph
 Success demands a singleness of purpose - Vince Lombardi
-The measure of a man is what he does with power. - Plato
 The purpose of life is a life of purpose. - Robert Byrne
-Ignorance is bold and knowledge is reserved. - Thucydides
-Mistakes are proof that you are trying. - Ernest Hemingway
+The worst enemy to creativity is self-doubt. - Sylvia Plath
 A mistake repeated more than once is a choice. - Paolo Coelho
 Action is the foundational key to all success. - Pablo Picasso
+Money doesn't change men, it merely unmasks them. - Henry Ford
+Be bad, but at least don't be a liar, a deceiver. - Leo Tolstoy
+Every word has conseuences. Every silence too. - Jean-Paul Sartre
 Have no fear of perfection; you'll never reach it. - Salvador Dalí
 When the rich wage war, it is the poor who die. - Jean-Paul Sartre
-It is remarkable how many things you can get to explode. - Elon Musk
+Every saint has a past, and every sinner has a future. - Oscar Wilde
 It is difficult to free fools from the chains they revere. - Voltaire
 Our sins are more easily remembered than our good deeds. - Democritus
 Facts do not cease to exist because they are ignored. - Aldous Huxley
+An idiot with a plan can beat a genius without a plan. - Warren Buffet
 Work is the refuge of those who have nothing better to do. - Oscar Wilde
 Only those who dare go too far, know how far they can go. - Walther Bishop
 There is no truth in the news. And no news in the truth. - Old Russian Joke
 Everyone pities the weak; Jealousy you have to earn. - Arnold Schwarzenegger
 A mind is like a parachute. It doesn't work if it is not open. - Frank Zappa
 A truth can walk naked, but a lie always needs to be dressed. - Khalil Gibran
+The comfort of the rich depends on an abundant supply of the poor. - Voltaire
 Don't be pushed by your problems. Be led by your dreams. - Ralph Waldo Emerson
 Nowadays people know the price of everything and value of nothing. - Oscar Wilde
+Never underestimate the power of stupid people in a large group. - George Carlin
+Never argue with someone whose TV is bigger than their bookshelf. - Emilia Clarke
+You won't find the same person twice, not even in the same person. - Mahmoud Darwish
 Knowing is not enough, we must apply. Willing is not enough, we must do. - Bruce Lee
+Nothing is more terrible than to see ignorance in action. - Johann Wolfgang Von Goethe
 Talk not of wasted affection; affection never was wasted. - Henry Wadsworth Longfellow
+Temper is what gets most of us into trouble. Pride is what keeps us there. - Mark Twain
 When you change the way you look at things, the things you look at change. - Max Planck
 Never be deceived that the rich will permit you to vote away their wealth. - Lucy Parsons
 Nothing is so necessary for a young man as the company of intelligent women. - Leo Tolstoy
-You should take the approach that you're wrong. Your goal is to be less wrong. - Elon Musk
+When the power of love overcomes the love of power the world will know peace. - Jimi Hendrix
 A reader lives a thousand lives before he dies. The man who never reads lives only one. GRRM
 Our lives begin to end the day we become silent about things that matter. - Martin Luther King
 True ignorance is not the absence of knowledge, but the refusal to acquire it. - Karl R. Popper
-The penalty good men pay for indifference to public affairs is to be ruled by evil men. - Plato
+People settle for a level of despair they can tolerate and call it happiness. - Søren Kierkegård
 Every sentence I utter must be understood not as an affirmation, but as a question. - Niels Bohr
 The pursuit of perfection is not the addition of qualities, but the removal of flaws. - Bruce Lee
+Many people die at twenty five and aren't buried until they are seventy five. - Benjamin Franklin
+I don't care that they stole my idea. I care that they don't have any of their own. - Nikola Tesla
+The thing about smart people is that they seem like crazy people to dumb people. - Stephen Hawking
 If you see distraction externally, you end up creating an internally distracted state. - Tim Ferris
 I was born not knowing and have had only a little time to change that here and there. - Richard Feynman
 There are only two hard things in Computer Science: cache invalidation and naming things. - Phil Karlton
 Before you heal someone, ask him if he is willing to give up the things that make him sick. - Hippocrates
-Talent hits a target no one else can hit. Genius hits a target no one else can see. - Arthur Schopenhauer
 The supreme art of war, is to subdue your enemy by having him fight his allies instead of you. - Putin Tsu
+Only a fool learns from his own mistakes. The wise man learns from the mistakes of others. - Otto von Bismarck
+The problem is people are being hated when they are real, and are being loved thwne they are fake. - Bob Marley
 To think is easy. To act is difficult. To act as one thinks is the most difficult. - Johann Wolfgang Von Goethe
 I propose to raise a revolution against the lie that the majority has the monopoly of the truth. - Henrik Ibsen
 Politicians should wear sponsor jackets like NASCAR drivers, then we would know who owns them. - Robbie Williams
 I would rather have questions that cannot be answered, than answers that cannot be questioned. - Richard Feynman
+Blessed is the man who, having nothing to say, adstains from giving us wordy evidence of the fact. - George Eliot
 The purpose of propagande is to make one set of people forget that other sets of people are human. - Aldous huxley
 Because a body of men, holding themselves accountable to nobody, ought not to be trusted by anybody. - Thomas Paine
 If you have chosen neutrality in situations of injustice, you have chosen the side of the oppressor. - Desmond Tutu
 Do not lose your temper when arguing, for anger weakens your arguments and strengthens your opponent. Ibn Al-Muqaffa
+The general population doesssn't know what's happening, and it doesn't even know that it doesn't know. - Noam Chomsky
 People demand freedom of speech as a compensation for the freedom of thought which they seldom use. - Søren Kierkegård
 To myself I am only a child playing on the beach, while vast oceans of truth lie undiscovered before me. - Isaac Newton
 Book and all forms of writing have always been objects of terror to those who seek to supporess the truth. - Wole Soyinka
+Two possibilities exist: either we are alone in the universe or we are not. Both are equally terrifying. - Arthur C Clarke
 You meet saints everywhere. They can be anywhere. They are people behaving decently in an indecent society. - Kurt Vonnegut
-The most effective way to destroy people, is to deny and obliterate their own understanding of their history. - George Orwell
+The trouble with the world is the stupid people are cocksure and the intelligent people are full of doubt. - Bertrand Russell
+You can't lead the people if you dont love the people. You can't save the people if you don't serve the people. - Cornel West
 Capitalism has always been a failure for the lower classes. It is now beginning to fail for the middle classes. - Howard Zinn
 Marxism remains the philosophy of our times because we have not gone beyond the circumstances which created it. - Jean-Paul Sartre
 Your enemy isn't carrying all their belongings in a plastic bag. Your enemy is carrying an investment portfolio. - Liam Cunningham
-Whenever someone says "Like a boss", I assume that means they didn't do it at all and are merely taking credit for it. - Bill Murray.
+Whenever someone says "Like a boss", I assume that means they didn't do it at all and are merely taking credit for it. - Bill Murray
+It is foolish to be convinced without evidence, but it is equally foolish to refuse to be convinced by real evidence. - Upton Sinclair
 You can sway a thousand men by appealing to their prejudices quicker than you can convince a single man by logic. - Robert A. Heinlein
 When it comes to  revolutionaries, trust only the sad ones. The enthusiastic ones are the oppressors of tomorrow. - William T. Vollman
 People who talk incessantly about "change" are often dogmatically set in their ways. They want to change other people. - Thomas Sowell
 The society that separates its scholars from its warriers will have its thinking done by cowards and its fighting by fools. - Thucydes
 It is undesirable to believe a proposition when there is no ground whatsoever for supposing it is true. - Bertrand Russell (1872 - 1970)
-Football, beer, and above all, gambling filled up the horizon of their minds. To keep them in control was not difficult. - George Orwell, 1984
 The less talent the have, the more pride, vanity and arrogance they have. All these fools, however, find other fools who applaud them. - Erasmus
 War is a game played by maniacs who kill each other. Find the man who profits by war and strip him of his profits - war will end. - Woody Guthrie
+It is usually futile to try to talk facts and analysis to people who are enjoying a sense of moral superiority in their ignorance. - Thomas Sowell
 There are two kinds of people who never amount to much: Those who cannot do what they are told, and those who can do nothing else. - Cyrus Kotzschmar
 The worst sin towards our fellow-creatures is not to hate them, but to be indifferent to them; that's the essence of inhumanity. - George Bernard Shaw
 If you are willing to abandon your principles for convenience or social acceptability, they are not principles. They are your costume. - Nitya Prakash
+I don't like country music but I don't mea to denigrate those who do. And for the pople who like country music, deigrate means 'put down'.  Bob Newhart
 Politically, the weakness of the argument has alwys been that those who choose the lesser evil forget very quickly that they chose evil. - Hannah Arendt
 If you are not careful, the newspapers will have you hating the people who are oppressed, and loving the people who are doing the oppressing. - Malcolm X
 Talking union is the best kind of talking you can do; Union in your house. Union in your street. Union in your town. Union around the workd. - Woody Guthrie
@@ -360,6 +369,7 @@ Nobody in the world, nobody in history, has ever gotten their freedom by appeali
 When I critisize a system, they think I critisize them - & that is of course because they  fully accept the system & identify themselves with it. - Thomas Merton
 Capitalism is the extraordinary belief that the nastiest of men for the nastiest of motives will somehow work together for the benefit of all. John Maynard Keynes
 I prefer to be true to myself, even at athe hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence. - Frederick Douglas
+Experience has taught me that the shallowest of communist platitudes contains more of a hierarchy of meaning than a contemporary bourgeois profundity. - Walter Benjamin
 A stuppid man's report of what a clever man says is never accurate, because he unconsciously translates what he hears into something that he can understand. - Bertrand Russel
 Accumulation of wealth at one pole is at the same time accumulation of misery, agony of toil, slavery, ignorance, brutality, mental degradation, at the opposite pole. - Karl Marx (1818-1883)
 The West won the worls not by superiority of its ideas or religion... but rather by its superiority in applying organized violence. Westerners often forget that fact; non-Westerners never do. - Samuel P. Huntington
@@ -398,8 +408,9 @@ If one oversteps the bounds of moderation, the greatest pleasures cease to pleas
 Man is not worried by real problems so much as by his imagined anxiety about real problems. - Epictetus
 The key is to keep company only with people who uplift you, whose presence calls forth your best. - Epictetus
 He is a wise man who does not grieve for what he doesn't have, but rejoices for that which he has. - Epictetus
+When someone is properly grounded in life, they shouldn't have to look outside themsselves for approval. - Epictetus
 One should aim not at being possible to understand, but at being impossible to misunderstand. - Quintilian
-He who is brave is free - Lucius Annaeus Seneca
+He who is brave is free. - Lucius Annaeus Seneca
 Timendi causa est nescire - Lucius Annaeus Seneca
 No man was ever wise by chance - Lucius Annaeus Seneca
 Ignorance is the cause of fear. - Lucius Annaeus Seneca
@@ -418,6 +429,7 @@ As long as you live, keep learning how to live. - Lucius Annaeus Seneca
 errare humanum est, sed perseverare diabolicum. - Lucius Annaeus Seneca
 Nothing is more honorable than a grateful heart. - Lucius Annaeus Seneca
 We suffer more often in imagination than in reality - Lucius Annaeus Seneca
+The wish for healing has always been half of health. - Lucius Annaeus Seneca
 Associate with people who are likely to improve you. - Lucius Annaeus Seneca
 Fate leads the willing and drags along the reluctant. - Lucius Annaeus Seneca
 Wealth is the slave of a wise man. The master of a fool - Lucius Annaeus Seneca
@@ -451,6 +463,7 @@ Life is like a play: it's not the length, but the excellence of the acting that 
 Hang on to your youthful enthusiasms -- you'll be able to use them better when you're older. - Lucius Annaeus Seneca
 Expecting is the greatest impediment to living. In anticipation of tomorrow, it loses today. - Lucius Annaeus Seneca
 Religion is regarded by the common people as true, by the wise as false, and by rulers as useful. - Lucius Annaeus Seneca
+If you don't know, ask. You will be a fool for the moment, but a wise man for the rest of your life. - Lucius Annaeus Seneca
 Now think of the things which goad man into destroying man: they are hope, envy, hatred, fear and contempt. - Lucius Annaeus Seneca
 The things that are essential are acquired with little bother; it is the luxuries that call for toil and effort. - Lucius Annaeus Seneca
 Nothing is so wretched or foolish as to anticipate misfortunes. What madness is it to be expecting evil before it comes. - Lucius Annaeus Seneca
@@ -477,6 +490,8 @@ Execute every act of thy life as though it were thy last. - Marcus Aurelius
 A thing is neither better nor worse for having been praised. - Marcus Aurelius
 The best revenge is to be unlike him who performed the injury. - Marcus Aurelius
 Even the smallest thing should be done with reference to an end. - Marcus Aurelius
+All things from eternity are of like forms and come round in a circle. - Marcus Aurelius
+He who lives in harmony with himself lives in harmony with the universe. - Marcus Aurelius
 How soon will time cover all things, and how many it has covered already. - Marcus Aurelius
 Receive wealth or prosperity without arrogance; and be ready to let it go. - Marcus Aurelius
 It is not death that a man should fear, but he should fear never beginning to live. - Marcus Aurelius
@@ -487,6 +502,7 @@ Your life is short. You must turn to profit the present by the aid of reason and
 A man must learn a great deal to enable him to pass a correct judgment on another man's acts. - Marcus Aurelius
 You have power over your mind, not outside events. Realise this, and you will find your strength. - Marcus Aurelius
 My city and country, so far as I am Antoninus, is Rome; but so far as I am a man, it is the world. - Marcus Aurelius
+Whoever does wrong, wrongs himself; whoever does injustice, does it to himself, making himself evil. - Marcus Aurelius
 Whatever man you meet with, immediately say to yourself: What opinions has this man about good and bad? - Marcus Aurelius
 Begin - to begin is half the work, let half still remain; again begin this, and you will have finished. - Marcus Aurelius
 In a little while you will have forgotten everything; in a little while everything will have forgotten you. - Marcus Aurelius
@@ -650,17 +666,27 @@ Ignorantia non excusat
 Beware the barrenness of a busy life. - Socrates
 I pray Thee, O God, that I may be beautiful within. - Socrates
 What a lot of things there are a man can do without. - Socrates
+Strong minds discuss ideas, average minds discuss events, weak minds discuss people. - Socrates
+Be nicer than necessary to everyone you meet. Everyone is fighting some kind of battle. - Socrates
 One person likes tending to his farm, another to his horse; I like to daily monitor my self-improvement. - Socrates
+The measure of a man is what he does with power. - Plato
+Poets utter great and wise things which they do not understand themseves. - Plato
+The penalty good men pay for indifference to public affairs is to be ruled by evil men. - Plato
 Youth is easily deceived because it is quick to hope. - Aristotle
 No great genius has ever existed without some touch of madness. - Aristotle
 We are what we repeatedly do. Excellence, therefore, is not an act, but a habit. - Aristotle
 It is the mark of an educated mind to be able to entertain a thought without accepting it. - Aristotle
 It is also in the interest of the tyrant to make his subjects poor... The people are so occupied with their daily tasks that they have no time for plotting. - Aristotle
+The Beauty of the soul shines out when a man bears with composure one heavy mischance after another, not because he does not feel them, but because he is a man of high and heroic temper. - Aristotle
 In a rich man's house there is no place to spit but his face. - Diogenes of Sinope
 When one with honeyed words but evil mind Persuades the mob, great woes befall the state. - Euripides
+The destiny of man is i his own soul. - Herodotus
+Death is a delightful hiding place for weary men. - Herodotus
 Close alliances with despots are never safe for free states. - Demothenes
 No man who is not willing to help himself, has any right to apply to his friends, or to the gods. - Demothenes
 Baths, drink and sex corrupt our bodies, but baths, drink and sex make life worth living - Graffiti in Roman Bath
+Thus that which is the most awful of evils, death, is nothing to us, since when we exist there is no death, and when there is death we do not exist. - Epicurus
+Ignorance is bold and knowledge reserved. - Thucydides
 Passions stem from frustrated desire. - Epictetus
 What illusion about myself do I entertain? - Epictetus
 Understand what words you use first, then use them. - Epictetus
@@ -753,6 +779,7 @@ Never trust people who've only got one book. - Billy Connolly
 To such heights of evil are men driven by religion. - Lucretiusca
 Religion is what keeps the poor from murdering the rich. - Napoleon Bonaparte
 A book that changed me? The Bible. It turned me into an Atheist. - Andy Hamilton
+I belong to no religion. My religion is Love and every heart is my temple. - Rumi
 Religions are cultural artifacts. We make God, not the other way round. - Iain M. Banks
 A strongly held belief does not automatically deserve respect. - Ancient Viking Proverb
 If something defies belief, a good starting position is not to believe it. - Jamie Whyte
@@ -792,7 +819,6 @@ Question with boldness even the existence of God; because, if there be one, he m
 I distrust those people who know so well what God wants them to do because I notice it always coincides with their own desires. - Susan B. Anthony (suffragist) 1820 - 1906
 The church says the earth is flat, but I know that it is round, for I have seen the shadow on the moon, and I have more faith in a shadow than in the church. - Ferdinand Magellan
 I don't think there's any difference between the pope wearing a large hat and parading around with a smoking purse, and an African painting his face white and praying to a rock. - Howard Stern
-I prefer rationalism to atheism. The question of God and other objects-of-faith are outside reason and play no part in rationalism, thus you don't have to waste your time in either attacking or defending. - Isaac Asimov (1920 - 1992)
 Fix reason firmly in her seat, and call to her tribunal every fact, every opinion. Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason, than that of blindfolded fear. - Thomas Jefferson
 It is individuals who have human rights, not religions or beliefs. To give the latter legal protection would severely curb the individual's right to freedom of expression - as already happens in some Muslim countries, where people of other faiths need to tread very carefully. - Ian Harris
 Shepherds don't look after sheep because they love them - although I do think some shepherds like their sheep too much. They look after their sheep so they can, first, fleece them and second, turn them into meat. That's much more like the priesthood as I know it. - Christopher Hitchens (1949 - 2011)
