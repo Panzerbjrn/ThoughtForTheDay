@@ -18,8 +18,8 @@ Function Get-ThoughtFortheDayVoice {
     )
 
     $TFTDArray = Get-Content "$PSScriptRoot\Thought.For.The.Day.txt"
-    [string]$fact = Get-Random $TFTDArray
-    $speak ="$open $fact"
+    [string]$Fact = Get-Random $TFTDArray
+    $speak ="$open $Fact"
     $v=New-Object -com SAPI.SpVoice
     $voice =$v.getvoices()|where {$_.id -like "*ZIRA*"}
     $v.voice= $voice
