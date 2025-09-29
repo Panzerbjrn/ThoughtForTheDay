@@ -288,7 +288,6 @@ A mistake repeated more than once is a choice. - Paolo Coelho
 Action is the foundational key to all success. - Pablo Picasso
 Money doesn't change men, it merely unmasks them. - Henry Ford
 You can knock on a deaf man's door forever. - Nikos Kazantzakis
-Be bad, but at least don't be a liar, a deceiver. - Leo Tolstoy
 Every word has conseuences. Every silence too. - Jean-Paul Sartre
 Have no fear of perfection; you'll never reach it. - Salvador Dalí
 When the rich wage war, it is the poor who die. - Jean-Paul Sartre
@@ -318,17 +317,17 @@ Talk not of wasted affection; affection never was wasted. - Henry Wadsworth Long
 Temper is what gets most of us into trouble. Pride is what keeps us there. - Mark Twain
 When you change the way you look at things, the things you look at change. - Max Planck
 Never be deceived that the rich will permit you to vote away their wealth. - Lucy Parsons
-Nothing is so necessary for a young man as the company of intelligent women. - Leo Tolstoy
 Your enemy is not the refugee. Your enemy is the one who made him a refugee. - Willie Nelson
 When the power of love overcomes the love of power the world will know peace. - Jimi Hendrix
-A reader lives a thousand lives before he dies. The man who never reads lives only one. - GRRM
 Our lives begin to end the day we become silent about things that matter. - Martin Luther King
 If you want to know who controls you, look at who you are not allowed to criticize. - Voltaire
+A reader lives a thousand lives before he dies. The man who never reads lives only one. - GRRM
 True ignorance is not the absence of knowledge, but the refusal to acquire it. - Karl R. Popper
+Imitation is the sincerest form of flattery that mediocrity can pay to greatness. - Oscar Wilde
 People settle for a level of despair they can tolerate and call it happiness. - Søren Kierkegård
 Every sentence I utter must be understood not as an affirmation, but as a question. - Niels Bohr
-The pursuit of perfection is not the addition of qualities, but the removal of flaws. - Bruce Lee
 Many people die at twenty five and aren't buried until they are seventy five. - Benjamin Franklin
+The pursuit of perfection is not the addition of qualities, but the removal of flaws. - Bruce Lee
 I don't care that they stole my idea. I care that they don't have any of their own. - Nikola Tesla
 The thing about smart people is that they seem like crazy people to dumb people. - Stephen Hawking
 If you see distraction externally, you end up creating an internally distracted state. - Tim Ferris
@@ -388,12 +387,14 @@ And the congregation of those who believed were of one heart and soul; and not o
 The West won the worls not by superiority of its ideas or religion... but rather by its superiority in applying organized violence. Westerners often forget that fact; non-Westerners never do. - Samuel P. Huntington
 Communism deprives no man of the power to appropriate the products of society; all that it does is to deprive him of the power to subjugate the labour of others by means of such appropriation. - Karl Marx (1818-1883)
 Give people what they need: food, medicine, clean air, pure water, trees and grass, homes to live in, some hours of work, more hours of leisure. Don't ask who deserves it. Every human being deserves it. - Howard Zinn
-I sit on a man's back choking him and making him carry me, and yet I assure myself and others that I am sorry for him and wish to lighten his load by all means possible... Except by getting off his back. - Leo Tolstoy
 If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit  of pleasure, the pleasure passes quickly, but the shame endures. - Gaius Musonius Rufus
 The problem isn't a lack of money, food, water or land. The problem is that you've given over control of these things to a group of greedy psychopaths who care more about maintaining their own power than helping mankind. - Bill Hicks
 The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency. - Bill Gates
 So avoid using the word 'very' because it is lazy. A man is not very tired, he is exhausted. Don't use very sad, use morose. Language was invented for one reason, boys - too woo women - and, in that endeavour, laziness will not do. - Robbie Williams
 I told you once that I was searching for the nature of evil. I think I've come close to defining it: a lack of empathy. It's the one characteristic that connects all the defendants. A genuine incapacity to feel with their fellow man. Evil, I think, is the absence of empathy. - G. M Gilbert
+Be bad, but at least don't be a liar, a deceiver. - Leo Tolstoy
+Nothing is so necessary for a young man as the company of intelligent women. - Leo Tolstoy
+I sit on a man's back choking him and making him carry me, and yet I assure myself and others that I am sorry for him and wish to lighten his load by all means possible... Except by getting off his back. - Leo Tolstoy
 In the middle of difficulty lies opportunity. - Albert Einstein (1879 - 1955)
 This crippling of individuals I consider the worst evils of capitalism. - Albert Einstein (1879 - 1955)
 The idea of a personal God is quite alien to me and seems even naive. - Albert Einstein (1879 - 1955)
