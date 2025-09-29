@@ -310,6 +310,7 @@ I prefer liberty with danger than peace with slavery. - Jean Jacques Rousseau
 A truth can walk naked, but a lie always needs to be dressed. - Khalil Gibran
 The comfort of the rich depends on an abundant supply of the poor. - Voltaire
 Don't be pushed by your problems. Be led by your dreams. - Ralph Waldo Emerson
+Capitalism reduces human relationships to transactions. - Karl Marx (1818-1883)
 Nowadays people know the price of everything and value of nothing. - Oscar Wilde
 Never underestimate the power of stupid people in a large group. - George Carlin
 Never argue with someone whose TV is bigger than their bookshelf. - Emilia Clarke
@@ -341,6 +342,7 @@ There are only two hard things in Computer Science: cache invalidation and namin
 Before you heal someone, ask him if he is willing to give up the things that make him sick. - Hippocrates
 The supreme art of war, is to subdue your enemy by having him fight his allies instead of you. - Putin Tsu
 Only a fool learns from his own mistakes. The wise man learns from the mistakes of others. - Otto von Bismarck
+The world would be happier if men had the same capacity to be silent that they have to speak. - Baruch Spinoza
 Competition is the law of the jungle, but cooperation is the law of civilization. - Peter Kropotkin (1842-1921)
 The problem is people are being hated when they are real, and are being loved thwne they are fake. - Bob Marley
 To think is easy. To act is difficult. To act as one thinks is the most difficult. - Johann Wolfgang Von Goethe
@@ -351,13 +353,13 @@ I would rather have questions that cannot be answered, than answers that cannot 
 Blessed is the man who, having nothing to say, adstains from giving us wordy evidence of the fact. - George Eliot
 The purpose of propagande is to make one set of people forget that other sets of people are human. - Aldous huxley
 Because a body of men, holding themselves accountable to nobody, ought not to be trusted by anybody. - Thomas Paine
-"How ridiculous and unrealistic is the man who is astonished at anything that happens in life. Marcus Aurelius
 If you have chosen neutrality in situations of injustice, you have chosen the side of the oppressor. - Desmond Tutu
 Do not lose your temper when arguing, for anger weakens your arguments and strengthens your opponent. Ibn Al-Muqaffa
 The general population doesssn't know what's happening, and it doesn't even know that it doesn't know. - Noam Chomsky
 People do not seem to realize that their opinion of the world is also a confession of character. - Ralph Waldo Emerson
 People demand freedom of speech as a compensation for the freedom of thought which they seldom use. - Søren Kierkegård
 To myself I am only a child playing on the beach, while vast oceans of truth lie undiscovered before me. - Isaac Newton
+Never be a spectator of unfairness or stupidity. The grave will supply plenty of time for silence. - Christopher Hitchens
 Book and all forms of writing have always been objects of terror to those who seek to supporess the truth. - Wole Soyinka
 Two possibilities exist: either we are alone in the universe or we are not. Both are equally terrifying. - Arthur C Clarke
 You meet saints everywhere. They can be anywhere. They are people behaving decently in an indecent society. - Kurt Vonnegut
@@ -517,6 +519,7 @@ Death smiles at us all; all we can do is smile back. - Marcus Aurelius
 The soul becomes dyed with the color of its thoughts. - Marcus Aurelius
 Do you have reason? I have. Why then do you not use it? - Marcus Aurelius
 Very little indeed is necessary for living a happy life. - Marcus Aurelius
+Remember that very little is needed to make a happy life. - Marcus Aurelius
 Execute every act of thy life as though it were thy last. - Marcus Aurelius
 A thing is neither better nor worse for having been praised. - Marcus Aurelius
 The best revenge is to be unlike him who performed the injury. - Marcus Aurelius
@@ -532,6 +535,7 @@ You will give yourself relief, if you do every act of your life as if it were th
 The opinion of 10000 men is of no value if none of them knows anything about the subject. - Marcus Aurelius
 Your life is short. You must turn to profit the present by the aid of reason and justice. - Marcus Aurelius
 A man must learn a great deal to enable him to pass a correct judgment on another man's acts. - Marcus Aurelius
+How ridiculous and unrealistic is the man who is astonished at anything that happens in life. - Marcus Aurelius
 You have power over your mind, not outside events. Realise this, and you will find your strength. - Marcus Aurelius
 My city and country, so far as I am Antoninus, is Rome; but so far as I am a man, it is the world. - Marcus Aurelius
 Whoever does wrong, wrongs himself; whoever does injustice, does it to himself, making himself evil. - Marcus Aurelius
@@ -885,5 +889,3 @@ Power has no limits. Every morsel of power engenders more hunder; it is never sa
 There is always more to know, more to learn; And every act of learning must come with the knowledge that it is never enough. - Magnus the Red
 Learn to shorten your reach. If your foe can come close enough to negate your striking power, all strategem is lost. And when all strategem is lost, the battle is lost. - O'Shovah
 The pursuit of knowledge rivals the pursuit of beauty in its arrogance; both quests are borne of hubris, yet of the two the sin of curiosity cuts deeper and leaves the greater wound. - Sermons of Sebastian Thor
-
-
