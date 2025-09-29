@@ -51,6 +51,7 @@ A small mind is a tidy mind. - Ancient Viking Proverb
 Be strong in your ignorance. - Ancient Viking Proverb
 Pride is the Warrior's Curse. - Ancient Viking Proverb
 An empty mind is a loyal mind. - Ancient Viking Proverb
+Lost time is never found again. - Ancient Viking Proverb
 Tolerance is a sign of weakness. - Ancient Viking Proverb
 Wise words never left a dry throat. Ancient Viking Proverb
 A liar is always lavish of oaths. - Ancient Viking Proverb
@@ -202,6 +203,7 @@ I'd rather be a failure at something I love than a success at something I hate. 
 If what one has to say is not better than silence, then one should keep silent. - Ancient Viking Proverb
 We are what we repeatedly do. Excellence, therefore, is not an act, but a habit. - Ancient Viking Proverb
 Youcan avoid reality, but you cannot avoid the consequences of avoiding reality. - Ancient Viking Proverb
+The revolution is not an apple that falls when it is ripe. You must make it fall. - Ancient Viking Proverb
 What the superior man seeks is in himself; what the small man seeks is in others. - Ancient Viking Proverb
 When you are bowing your head to one person, you are showing your ass to another. - Ancient Viking Proverb
 Men are not responsible for their dotage anymore than they are for their infancy. - Ancient Viking Proverb
@@ -238,6 +240,7 @@ No one is ever completely forced into his position in life. We all have opportun
 The man of wisdom is never of two minds; the man of benevolence never worries; the man of courage is never afraid. - Ancient Viking Proverb
 Everyone loves an honest person until the honest person strikes a chord with a truth they weren't ready to receive. - Ancient Viking Proverb
 You must remember, the most important rule of any successful illusion: First, the people must want to believe in it. - Ancient Viking Proverb
+People are losing the spirit of the Ides of March. It's not about just stabbing. It's about coming together to stab in groups. - Ancient Viking Proverb
 Discovery is dangerous... But so is life. A man unwilling to take risk is doomed never to learn, never to grow, never to live. - Ancient Viking Proverb
 When you see a good person, think of becoming like her/him. When you see someone not so good, reflect on your own weak points. - Ancient Viking Proverb
 If some years were added to my life, I would give fifty to the study of the Yi, and then I might come to be without great faults. - Ancient Viking Proverb
@@ -274,6 +277,7 @@ Talent hits a target no one else can hit. Genius hits a target no one else can s
 Nullius in verba - Motto of The Royal Society
 One day or day one. You decide. - Paolo Coelho
 On the word of no one - Motto of The Royal Society
+Lost time is never found again. - Benjamin Franklin
 Opportunities multiply as they are seized. - Sun Tzu
 The boldest measures are the safest. - Horatio Nelson
 Freedom is never given; it is won. - A. Philip Randolph
@@ -283,10 +287,12 @@ The worst enemy to creativity is self-doubt. - Sylvia Plath
 A mistake repeated more than once is a choice. - Paolo Coelho
 Action is the foundational key to all success. - Pablo Picasso
 Money doesn't change men, it merely unmasks them. - Henry Ford
+You can knock on a deaf man's door forever. - Nikos Kazantzakis
 Be bad, but at least don't be a liar, a deceiver. - Leo Tolstoy
 Every word has conseuences. Every silence too. - Jean-Paul Sartre
 Have no fear of perfection; you'll never reach it. - Salvador Dalí
 When the rich wage war, it is the poor who die. - Jean-Paul Sartre
+A beautiful woman should break her mirror early. - Baltasar Gracian
 Every saint has a past, and every sinner has a future. - Oscar Wilde
 It is difficult to free fools from the chains they revere. - Voltaire
 Our sins are more easily remembered than our good deeds. - Democritus
@@ -297,6 +303,7 @@ Only those who dare go too far, know how far they can go. - Walther Bishop
 There is no truth in the news. And no news in the truth. - Old Russian Joke
 Everyone pities the weak; Jealousy you have to earn. - Arnold Schwarzenegger
 A mind is like a parachute. It doesn't work if it is not open. - Frank Zappa
+I prefer liberty with danger than peace with slavery. - Jean Jacques Rousseau
 A truth can walk naked, but a lie always needs to be dressed. - Khalil Gibran
 The comfort of the rich depends on an abundant supply of the poor. - Voltaire
 Don't be pushed by your problems. Be led by your dreams. - Ralph Waldo Emerson
@@ -304,6 +311,7 @@ Nowadays people know the price of everything and value of nothing. - Oscar Wilde
 Never underestimate the power of stupid people in a large group. - George Carlin
 Never argue with someone whose TV is bigger than their bookshelf. - Emilia Clarke
 You won't find the same person twice, not even in the same person. - Mahmoud Darwish
+The state calls its own violence law; but that of the individual crime - Saw Gererra
 Knowing is not enough, we must apply. Willing is not enough, we must do. - Bruce Lee
 Nothing is more terrible than to see ignorance in action. - Johann Wolfgang Von Goethe
 Talk not of wasted affection; affection never was wasted. - Henry Wadsworth Longfellow
@@ -311,9 +319,11 @@ Temper is what gets most of us into trouble. Pride is what keeps us there. - Mar
 When you change the way you look at things, the things you look at change. - Max Planck
 Never be deceived that the rich will permit you to vote away their wealth. - Lucy Parsons
 Nothing is so necessary for a young man as the company of intelligent women. - Leo Tolstoy
+Your enemy is not the refugee. Your enemy is the one who made him a refugee. - Willie Nelson
 When the power of love overcomes the love of power the world will know peace. - Jimi Hendrix
-A reader lives a thousand lives before he dies. The man who never reads lives only one. GRRM
+A reader lives a thousand lives before he dies. The man who never reads lives only one. - GRRM
 Our lives begin to end the day we become silent about things that matter. - Martin Luther King
+If you want to know who controls you, look at who you are not allowed to criticize. - Voltaire
 True ignorance is not the absence of knowledge, but the refusal to acquire it. - Karl R. Popper
 People settle for a level of despair they can tolerate and call it happiness. - Søren Kierkegård
 Every sentence I utter must be understood not as an affirmation, but as a question. - Niels Bohr
@@ -327,6 +337,7 @@ There are only two hard things in Computer Science: cache invalidation and namin
 Before you heal someone, ask him if he is willing to give up the things that make him sick. - Hippocrates
 The supreme art of war, is to subdue your enemy by having him fight his allies instead of you. - Putin Tsu
 Only a fool learns from his own mistakes. The wise man learns from the mistakes of others. - Otto von Bismarck
+Competition is the law of the jungle, but cooperation is the law of civilization. - Peter Kropotkin (1842-1921)
 The problem is people are being hated when they are real, and are being loved thwne they are fake. - Bob Marley
 To think is easy. To act is difficult. To act as one thinks is the most difficult. - Johann Wolfgang Von Goethe
 I propose to raise a revolution against the lie that the majority has the monopoly of the truth. - Henrik Ibsen
@@ -371,7 +382,9 @@ Capitalism is the extraordinary belief that the nastiest of men for the nastiest
 I prefer to be true to myself, even at athe hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence. - Frederick Douglas
 Experience has taught me that the shallowest of communist platitudes contains more of a hierarchy of meaning than a contemporary bourgeois profundity. - Walter Benjamin
 A stuppid man's report of what a clever man says is never accurate, because he unconsciously translates what he hears into something that he can understand. - Bertrand Russel
+Working class people around the world have no innate desire to go to war with each other. They have to be conned into it by the sociopaths who will profit from it. - John Lennon
 Accumulation of wealth at one pole is at the same time accumulation of misery, agony of toil, slavery, ignorance, brutality, mental degradation, at the opposite pole. - Karl Marx (1818-1883)
+And the congregation of those who believed were of one heart and soul; and not one of them claimed that anything belonging to him was his own, but all things were common property to them. - Acts 4:32
 The West won the worls not by superiority of its ideas or religion... but rather by its superiority in applying organized violence. Westerners often forget that fact; non-Westerners never do. - Samuel P. Huntington
 Communism deprives no man of the power to appropriate the products of society; all that it does is to deprive him of the power to subjugate the labour of others by means of such appropriation. - Karl Marx (1818-1883)
 Give people what they need: food, medicine, clean air, pure water, trees and grass, homes to live in, some hours of work, more hours of leisure. Don't ask who deserves it. Every human being deserves it. - Howard Zinn
@@ -380,7 +393,7 @@ If you accomplish something good with hard work, the labor passes quickly, but t
 The problem isn't a lack of money, food, water or land. The problem is that you've given over control of these things to a group of greedy psychopaths who care more about maintaining their own power than helping mankind. - Bill Hicks
 The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency. - Bill Gates
 So avoid using the word 'very' because it is lazy. A man is not very tired, he is exhausted. Don't use very sad, use morose. Language was invented for one reason, boys - too woo women - and, in that endeavour, laziness will not do. - Robbie Williams
-And the congregation of those who believed were of one heart and soul; and not one of them claimed that anything belonging to him was his own, but all things were common property to them. - Acts 4:32
+I told you once that I was searching for the nature of evil. I think I've come close to defining it: a lack of empathy. It's the one characteristic that connects all the defendants. A genuine incapacity to feel with their fellow man. Evil, I think, is the absence of empathy. - G. M Gilbert
 In the middle of difficulty lies opportunity. - Albert Einstein (1879 - 1955)
 This crippling of individuals I consider the worst evils of capitalism. - Albert Einstein (1879 - 1955)
 The idea of a personal God is quite alien to me and seems even naive. - Albert Einstein (1879 - 1955)
@@ -407,6 +420,7 @@ Wealth consists not in having great possessions, but in having few wants. - Epic
 If one oversteps the bounds of moderation, the greatest pleasures cease to please. - Epictetus
 Man is not worried by real problems so much as by his imagined anxiety about real problems. - Epictetus
 The key is to keep company only with people who uplift you, whose presence calls forth your best. - Epictetus
+It takes more than just a good looking body. You've got to have the heart and soul to go with it. - Epictetus
 He is a wise man who does not grieve for what he doesn't have, but rejoices for that which he has. - Epictetus
 When someone is properly grounded in life, they shouldn't have to look outside themsselves for approval. - Epictetus
 One should aim not at being possible to understand, but at being impossible to misunderstand. - Quintilian
@@ -437,6 +451,7 @@ There are times when even to live is an act of bravery. - Lucius Annaeus Seneca
 So I look for the best and am prepared for the opposite. - Lucius Annaeus Seneca
 Luck is what happens when preparation meets opportunity. - Lucius Annaeus Seneca
 A person's fears are lighter when the danger is at hand. - Lucius Annaeus Seneca
+A corrupt state teachess its youth obedience, not virtue. - Lucius Annaeus Seneca
 Difficulties strengthen the mind, as labor does the body. - Lucius Annaeus Seneca
 Leisure without books is death, and burial of a man alive. - Lucius Annaeus Seneca
 It is a rough road that leads to the heights of greatness. - Lucius Annaeus Seneca
@@ -482,6 +497,7 @@ We should every night call ourselves to an account; What infirmity have I master
 Another thing which will help you is to turn your mind to other thoughts and that way get away from your suffering. Call to mind things which you have done that have been upright or courageous; run over in your mind the finest parts you have played. - Lucius Annaeus Seneca
 Do not be ashamed of help. - Marcus Aurelius
 Nothing should be done without a purpose. - Marcus Aurelius
+You can also commit injustice by doing nothing. - Marcus Aurelius
 Death smiles at us all; all we can do is smile back. - Marcus Aurelius
 The soul becomes dyed with the color of its thoughts. - Marcus Aurelius
 Do you have reason? I have. Why then do you not use it? - Marcus Aurelius
@@ -528,6 +544,7 @@ Since the greatest part of what we say and do is unnecessary, dispensing with su
 Those who rather pursue posthumous fame do not consider that the men of tomorrow will be exactly like these whom they cannot bear now; and both are mortal. - Marcus Aurelius
 Consider that as the heaps of sand piled on one another hide the former sands, so in life the events that go before are soon covered by those that come after. - Marcus Aurelius
 Do not waste the remainder of your life in thoughts about others ... for you lose the opportunity of doing something else when you have such thoughts as these. - Marcus Aurelius
+We ought to do good to oth-ers as simply as a horse runs, or a bee makes honey, or a vine bears grapes season after season without thinking of the grapes it has borne. - Marcus Aurelius
 A man when he has done a good act, does not call out for others to come and see, but he goes on to another act, as a vine goes on to produce again the grapes in season. - Marcus Aurelius
 Failure to observe what is in the mind of another has seldom made a man unhappy; but those who do not observe the movements of their own minds must of necessity be unhappy. - Marcus Aurelius
 I have often wondered how t is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others. - Marcus Aurelius
@@ -539,85 +556,85 @@ Death and life, honor and dishonor, pain and pleasure — all these things equal
 Such as are your habitual thoughts, such also will be the character of your mind; for the soul is dyed by the thoughts. Dye it then with a continuous series of such thoughts as these: for instance, that where a man can live, there he can also live well. - Marcus Aurelius
 If you shall be afraid not because you must some time cease to live, but if you shall fear never to have begun to live according to nature—then you will be a man worthy of the universe that has produced you, and you will cease to be a stranger in your native land. - Marcus Aurelius
 Begin the morning by saying to yourself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil. I can neither be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him. - Marcus Aurelius
-To be rather than to seem. - Cicero
-A friend is a second self. - Cicero
-Silent enim leges inter arma. - Cicero
-While there's life, there's hope. - Cicero
-Ability without honor is useless. - Cicero
-Never injure a friend, even in jest. - Cicero
-Endless money forms the sinews of war. - Cicero
-In times of war, the law falls silent. - Cicero
-It is a great thing to know your vices. - Cicero
-A man of faith is also full of courage . - Cicero
-They condemn what they do not understand. - Cicero
-Politicians are not born; they are excreted. - Cicero
-A happy life consists in tranquility of mind. - Cicero
-The welfare of the people is the highest law. - Cicero
-Ut conclave sine libris ita corpus sine anima. - Cicero
-Where is there dignity unless there is honesty? - Cicero
-We must not say every mistake is a foolish one. - Cicero
-No one can give you better advice than yourself. - Cicero
-We are bound by the law, so that we may be free. - Cicero
-Silence is one of the great arts of conversation. - Cicero
-Silence is one of the great arts of conversation. - Cicero
-Memory is the treasury and guardian of all things. - Cicero
-The safety of the people shall be the highest law. - Cicero
-A room without books is like a body without a soul. - Cicero
-Law applied to its extreme is the greatest injustice. - Cicero
-Trust no one unless you have eaten much salt with him. - Cicero
-The shifts of fortune test the reliability of friends. - Cicero
-The life of the dead is set in the memory of the living. - Cicero
-I prefer the most unfair peace to the most righteous war. - Cicero
-The life of the dead is placed in the memory of the living. - Cicero
-Cultivation of the mind is as necessary as food to the body. - Cicero
-Nemo enim est tam senex qui se annum non putet posse vivere. - Cicero
-He only employs his passion who can make no use of his reason. - Cicero
-Your enemies can kill you, but only your friends can hurt you. - Cicero
-No one is so old as to think that he cannot live one more year. - Cicero
-The function of wisdom is to discriminate between good and evil. - Cicero
-To study philosophy is nothing but to prepare one's self to die. - Cicero
-I am not ashamed to confess I am ignorant of what I do not know. - Cicero
-If you have a garden and a library, you have everything you need. - Cicero
-The face is a picture of the mind with the eyes as its interpreter. - Cicero
-Any man can make mistakes, but only an idiot persists in his error. - Cicero
-If we are not ashamed to think it, we should not be ashamed to say it. - Cicero
-Few are those who wish to be endowed with virtue rather than to seem so. - Cicero
-Though silence is not necessarily an admission, it is not a denial, either. - Cicero
-To teach is a necessity, to please is a sweetness, to persuade is a victory. - Cicero
-Every word that is unnecessary, only pours over the side of a brimming mind. - Cicero
-Gratitude is not only the greatest of virtues, but the parent of all others. - Cicero
-To be content with what we possess is the greatest and most secure of riches. - Cicero
-Time obliterates the fictions of opinion and confirms the decisions of nature. - Cicero
-Our span of life is brief, but is long enough for us to live well and honestly. - Cicero
-Live as brave men; and if fortune is adverse, front its blows with brave hearts . - Cicero
-Diseases of the soul are more dangerous and more numerous than those of the body. - Cicero
-The authority of those who teach is often an obstacle to those who want to learn. - Cicero
-Knowledge which is divorced from justice may be called cunning rather than wisdom. - Cicero
-Every man can tell how many goats or sheep he possesses, but not how many friends. - Cicero
-Times are bad. Children no longer obey their parents, and everyone is writing a book. - Cicero
-The life given us, by nature is short; but the memory of a well-spent life is eternal. - Cicero
-What one has, one ought to use; and whatever he does, he should do with all his might. - Cicero
-It is the peculiar quality of a fool to perceive the faults of others and to forget his own. - Cicero
-A mental stain can neither be blotted out by the passage of time nor washed away by any waters. - Cicero
-In a republic this rule ought to be observed: that the majority should not have the predominant power. - Cicero
-A mind without instruction can no more bear fruit than can a field, however fertile, without cultivation. - Cicero
-Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief. - Cicero
-The wise are instructed by reason, average minds by experience, the stupid by necessity and the brute by instinct. - Cicero
-Nothing stands out so conspicuously, or remains so firmly fixed in the memory, as something which you have blundered. - Cicero
-The enemy is within the gates; it is with our own luxury, our own folly, our own criminality that we have to contend. - Cicero
-It is not by muscle, speed, or physical dexterity that great things are achieved, but by reflection, force of character, and judgment. - Cicero
-If you have no confidence in self, you are twice defeated in the race of life. With confidence, you have won even before you have started. - Cicero
-The famous Lucius Cassius, whom the Roman people used to regard as a very honest and wise judge, was in the habit of asking, time and again, 'To whose benefit? . - Cicero
-For books are more than books, they are the life, the very heart and core of ages past, the reason why men worked and died, the essence and quintessence of their lives. - Cicero
-They who say that we should love our fellow-citizens but not foreigners, destroy the universal brotherhood of mankind, with which benevolence and justice would perish forever . - Cicero
-Read at every wait; read at all hours; read within leisure; read in times of labor; read as one goes in; read as one goest out. The task of the educated mind is simply put: read to lead. - Cicero
-To be ignorant of what occurred before you were born is to remain always a child. For what is the worth of human life, unless it is woven into the life of our ancestors by the records of history? . - Cicero
-When you wish to instruct, be brief; that men's minds take in quickly what you say, learn its lesson, and retain it faithfully. Every word that is unnecessary only pours over the side of a brimming mind. - Cicero
-So it may well be believed that when I found him taking a complete holiday, with a vast supply of books at command, he had the air of indulging in a literary debauch, if the term may be applied to so honorable an occupation. - Cicero
-What is morally wrong can never be advantageous, even when it enables you to make some gain that you believe to be to your advantage. The mere act of believing that some wrongful course of action constitutes an advantage is pernicious. - Cicero
-The man who backbites an absent friend, nay, who does not stand up for him when another blames him, the man who angles for bursts of laughter and for the repute of a wit, who can invent what he never saw, who cannot keep a secret -- that man is black at heart: mark and avoid him. - Cicero
-Six mistakes mankind keeps making century after century: Believing that personal gain is made by crushing others; Worrying about things that cannot be changed or corrected; Insisting that a thing is impossible because we cannot accomplish it; Refusing to set aside trivial preferences; Neglecting development and refinement of the mind; Attempting to compel others to believe and live as we do. - Cicero
-A nation can survive its fools, and even the ambitious. But it cannot survive treason from within. An enemy at the gates is less formidable, for he is known and carries his banner openly. But the traitor moves amongst those within the gate freely, his sly whispers rustling through all the alleys, heard in the very halls of government itself. For the traitor appears not a traitor; he speaks in accents familiar to his victims, and he wears their face and their arguments, he appeals to the baseness that lies deep in the hearts of all men. He rots the soul of a nation, he works secretly and unknown in the night to undermine the pillars of the city, he infects the body politic so that it can no longer resist. A murderer is less to fear. - Cicero
+To be rather than to seem. - Cicero (106-43 BCE)
+A friend is a second self. - Cicero (106-43 BCE)
+Silent enim leges inter arma. - Cicero (106-43 BCE)
+While there's life, there's hope. - Cicero (106-43 BCE)
+Ability without honor is useless. - Cicero (106-43 BCE)
+Never injure a friend, even in jest. - Cicero (106-43 BCE)
+Endless money forms the sinews of war. - Cicero (106-43 BCE)
+In times of war, the law falls silent. - Cicero (106-43 BCE)
+It is a great thing to know your vices. - Cicero (106-43 BCE)
+A man of faith is also full of courage . - Cicero (106-43 BCE)
+They condemn what they do not understand. - Cicero (106-43 BCE)
+Politicians are not born; they are excreted. - Cicero (106-43 BCE)
+A happy life consists in tranquility of mind. - Cicero (106-43 BCE)
+The welfare of the people is the highest law. - Cicero (106-43 BCE)
+Ut conclave sine libris ita corpus sine anima. - Cicero (106-43 BCE)
+Where is there dignity unless there is honesty? - Cicero (106-43 BCE)
+We must not say every mistake is a foolish one. - Cicero (106-43 BCE)
+No one can give you better advice than yourself. - Cicero (106-43 BCE)
+We are bound by the law, so that we may be free. - Cicero (106-43 BCE)
+Silence is one of the great arts of conversation. - Cicero (106-43 BCE)
+Silence is one of the great arts of conversation. - Cicero (106-43 BCE)
+Memory is the treasury and guardian of all things. - Cicero (106-43 BCE)
+The safety of the people shall be the highest law. - Cicero (106-43 BCE)
+A room without books is like a body without a soul. - Cicero (106-43 BCE)
+Law applied to its extreme is the greatest injustice. - Cicero (106-43 BCE)
+Trust no one unless you have eaten much salt with him. - Cicero (106-43 BCE)
+The shifts of fortune test the reliability of friends. - Cicero (106-43 BCE)
+The life of the dead is set in the memory of the living. - Cicero (106-43 BCE)
+I prefer the most unfair peace to the most righteous war. - Cicero (106-43 BCE)
+The life of the dead is placed in the memory of the living. - Cicero (106-43 BCE)
+Cultivation of the mind is as necessary as food to the body. - Cicero (106-43 BCE)
+Nemo enim est tam senex qui se annum non putet posse vivere. - Cicero (106-43 BCE)
+He only employs his passion who can make no use of his reason. - Cicero (106-43 BCE)
+Your enemies can kill you, but only your friends can hurt you. - Cicero (106-43 BCE)
+No one is so old as to think that he cannot live one more year. - Cicero (106-43 BCE)
+The function of wisdom is to discriminate between good and evil. - Cicero (106-43 BCE)
+To study philosophy is nothing but to prepare one's self to die. - Cicero (106-43 BCE)
+I am not ashamed to confess I am ignorant of what I do not know. - Cicero (106-43 BCE)
+If you have a garden and a library, you have everything you need. - Cicero (106-43 BCE)
+The face is a picture of the mind with the eyes as its interpreter. - Cicero (106-43 BCE)
+Any man can make mistakes, but only an idiot persists in his error. - Cicero (106-43 BCE)
+If we are not ashamed to think it, we should not be ashamed to say it. - Cicero (106-43 BCE)
+Few are those who wish to be endowed with virtue rather than to seem so. - Cicero (106-43 BCE)
+Though silence is not necessarily an admission, it is not a denial, either. - Cicero (106-43 BCE)
+To teach is a necessity, to please is a sweetness, to persuade is a victory. - Cicero (106-43 BCE)
+Every word that is unnecessary, only pours over the side of a brimming mind. - Cicero (106-43 BCE)
+Gratitude is not only the greatest of virtues, but the parent of all others. - Cicero (106-43 BCE)
+To be content with what we possess is the greatest and most secure of riches. - Cicero (106-43 BCE)
+Time obliterates the fictions of opinion and confirms the decisions of nature. - Cicero (106-43 BCE)
+Our span of life is brief, but is long enough for us to live well and honestly. - Cicero (106-43 BCE)
+Live as brave men; and if fortune is adverse, front its blows with brave hearts . - Cicero (106-43 BCE)
+Diseases of the soul are more dangerous and more numerous than those of the body. - Cicero (106-43 BCE)
+The authority of those who teach is often an obstacle to those who want to learn. - Cicero (106-43 BCE)
+Knowledge which is divorced from justice may be called cunning rather than wisdom. - Cicero (106-43 BCE)
+Every man can tell how many goats or sheep he possesses, but not how many friends. - Cicero (106-43 BCE)
+Times are bad. Children no longer obey their parents, and everyone is writing a book. - Cicero (106-43 BCE)
+The life given us, by nature is short; but the memory of a well-spent life is eternal. - Cicero (106-43 BCE)
+What one has, one ought to use; and whatever he does, he should do with all his might. - Cicero (106-43 BCE)
+It is the peculiar quality of a fool to perceive the faults of others and to forget his own. - Cicero (106-43 BCE)
+A mental stain can neither be blotted out by the passage of time nor washed away by any waters. - Cicero (106-43 BCE)
+In a republic this rule ought to be observed: that the majority should not have the predominant power. - Cicero (106-43 BCE)
+A mind without instruction can no more bear fruit than can a field, however fertile, without cultivation. - Cicero (106-43 BCE)
+Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief. - Cicero (106-43 BCE)
+The wise are instructed by reason, average minds by experience, the stupid by necessity and the brute by instinct. - Cicero (106-43 BCE)
+Nothing stands out so conspicuously, or remains so firmly fixed in the memory, as something which you have blundered. - Cicero (106-43 BCE)
+The enemy is within the gates; it is with our own luxury, our own folly, our own criminality that we have to contend. - Cicero (106-43 BCE)
+It is not by muscle, speed, or physical dexterity that great things are achieved, but by reflection, force of character, and judgment. - Cicero (106-43 BCE)
+If you have no confidence in self, you are twice defeated in the race of life. With confidence, you have won even before you have started. - Cicero (106-43 BCE)
+The famous Lucius Cassius, whom the Roman people used to regard as a very honest and wise judge, was in the habit of asking, time and again, 'To whose benefit? . - Cicero (106-43 BCE)
+For books are more than books, they are the life, the very heart and core of ages past, the reason why men worked and died, the essence and quintessence of their lives. - Cicero (106-43 BCE)
+They who say that we should love our fellow-citizens but not foreigners, destroy the universal brotherhood of mankind, with which benevolence and justice would perish forever . - Cicero (106-43 BCE)
+Read at every wait; read at all hours; read within leisure; read in times of labor; read as one goes in; read as one goest out. The task of the educated mind is simply put: read to lead. - Cicero (106-43 BCE)
+To be ignorant of what occurred before you were born is to remain always a child. For what is the worth of human life, unless it is woven into the life of our ancestors by the records of history? . - Cicero (106-43 BCE)
+When you wish to instruct, be brief; that men's minds take in quickly what you say, learn its lesson, and retain it faithfully. Every word that is unnecessary only pours over the side of a brimming mind. - Cicero (106-43 BCE)
+So it may well be believed that when I found him taking a complete holiday, with a vast supply of books at command, he had the air of indulging in a literary debauch, if the term may be applied to so honorable an occupation. - Cicero (106-43 BCE)
+What is morally wrong can never be advantageous, even when it enables you to make some gain that you believe to be to your advantage. The mere act of believing that some wrongful course of action constitutes an advantage is pernicious. - Cicero (106-43 BCE)
+The man who backbites an absent friend, nay, who does not stand up for him when another blames him, the man who angles for bursts of laughter and for the repute of a wit, who can invent what he never saw, who cannot keep a secret -- that man is black at heart: mark and avoid him. - Cicero (106-43 BCE)
+Six mistakes mankind keeps making century after century: Believing that personal gain is made by crushing others; Worrying about things that cannot be changed or corrected; Insisting that a thing is impossible because we cannot accomplish it; Refusing to set aside trivial preferences; Neglecting development and refinement of the mind; Attempting to compel others to believe and live as we do. - Cicero (106-43 BCE)
+A nation can survive its fools, and even the ambitious. But it cannot survive treason from within. An enemy at the gates is less formidable, for he is known and carries his banner openly. But the traitor moves amongst those within the gate freely, his sly whispers rustling through all the alleys, heard in the very halls of government itself. For the traitor appears not a traitor; he speaks in accents familiar to his victims, and he wears their face and their arguments, he appeals to the baseness that lies deep in the hearts of all men. He rots the soul of a nation, he works secretly and unknown in the night to undermine the pillars of the city, he infects the body politic so that it can no longer resist. A murderer is less to fear. - Cicero (106-43 BCE)
 We are but dust and shadow. - Horace
 The covetous man is ever in want. - Horace
 In adversity, remember to keep an even mind. - Horace
@@ -666,27 +683,37 @@ Ignorantia non excusat
 Beware the barrenness of a busy life. - Socrates
 I pray Thee, O God, that I may be beautiful within. - Socrates
 What a lot of things there are a man can do without. - Socrates
+When the debate is lost, slander becomes the tool of the loser. - Socrates
 Strong minds discuss ideas, average minds discuss events, weak minds discuss people. - Socrates
 Be nicer than necessary to everyone you meet. Everyone is fighting some kind of battle. - Socrates
 One person likes tending to his farm, another to his horse; I like to daily monitor my self-improvement. - Socrates
+By all means marry. If you get a good wife you will become happy, and if you get a bad one you will become a philosopher. - Socrates
 The measure of a man is what he does with power. - Plato
 Poets utter great and wise things which they do not understand themseves. - Plato
 The penalty good men pay for indifference to public affairs is to be ruled by evil men. - Plato
+Education is the best provision for old age. - Aristotle
 Youth is easily deceived because it is quick to hope. - Aristotle
 No great genius has ever existed without some touch of madness. - Aristotle
 We are what we repeatedly do. Excellence, therefore, is not an act, but a habit. - Aristotle
+Time crumbles things; everything grows old and is forgotten under the power of time. - Aristotle
 It is the mark of an educated mind to be able to entertain a thought without accepting it. - Aristotle
 It is also in the interest of the tyrant to make his subjects poor... The people are so occupied with their daily tasks that they have no time for plotting. - Aristotle
 The Beauty of the soul shines out when a man bears with composure one heavy mischance after another, not because he does not feel them, but because he is a man of high and heroic temper. - Aristotle
 In a rich man's house there is no place to spit but his face. - Diogenes of Sinope
 When one with honeyed words but evil mind Persuades the mob, great woes befall the state. - Euripides
-The destiny of man is i his own soul. - Herodotus
+The destiny of man is in his own soul. - Herodotus
 Death is a delightful hiding place for weary men. - Herodotus
+Of all possessions a friend is the most precious. - Herodotus
 Close alliances with despots are never safe for free states. - Demothenes
 No man who is not willing to help himself, has any right to apply to his friends, or to the gods. - Demothenes
 Baths, drink and sex corrupt our bodies, but baths, drink and sex make life worth living - Graffiti in Roman Bath
+The noble man is chiefly concerned with wisdom and friendship; of these, the former is a mortal good; the latter an immortal one. - Epicurus
 Thus that which is the most awful of evils, death, is nothing to us, since when we exist there is no death, and when there is death we do not exist. - Epicurus
+It is impossible to live a pleasant life without living wisely and well and justly. And it is impossible to live wisely and well and justly without living a pleasant life. - Epicurus
 Ignorance is bold and knowledge reserved. - Thucydides
+No one that encounters prosperity does not also encounter danger. - Heraclitus
+An imbalance between rich and poor is the oldest and most fatal ailment of all republics. - Plutarch
+Just because you do not take an interest in politics doesn't mean politics won't take an interest in you. - Pericles
 Passions stem from frustrated desire. - Epictetus
 What illusion about myself do I entertain? - Epictetus
 Understand what words you use first, then use them. - Epictetus
@@ -771,6 +798,7 @@ Forgetfulness. A gift of God bestowed upon debtors in compensation for their des
 Today, there are three kinds of people:	the have’s, the have-not’s, and the have-not-paid-for-what-they-have’s. - Earl Wilson
 There are but two ways of paying debt: Increase of industry in raising income, increase of thrift in laying out. - Thomas Carlyle
 Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed. - Romans 13:7
+And all the believers were together and held all things in common. They sold their property and possessions and distributed the money to those according to their needs. -Acts 2:44-45
 Religion is a modesty curtain for ignorance - Perturabo
 My own mind is my own church. - Thomas Paine 1737 - 1809
 Faith is fear dressed up as virtue - Ancient Viking Proverb
@@ -792,6 +820,7 @@ Religion is an advertising campaign for a product that doesn't exist. - Ancient 
 When we are tired, we are attacked by ideas we conquered long ago. - Friedrich Nietzsche 1844-1900
 Drawing a cartoon is not an act of aggression. Trying to kill somebody with an axe is. - Johann Hari
 Man will  never be free until the last king is strangled with the entrails of the last priest. - Denis Diderot
+The pained worker inevitably resorts to legal cocaine for his most fundamental social tasks. - Karl Marx (1818-1883)
 The philosopher has never killed any priests, whereas the priest has killed a great many philosophers. - Denis Diderot
 The Christian resolution to find the world ugly and bad has made the world ugly and bad. - Friedrich Nietzsche 1844-1900
 Rational arguments don't usually work on religious people. Otherwise there wouldn't be religious people. - Gregory House
